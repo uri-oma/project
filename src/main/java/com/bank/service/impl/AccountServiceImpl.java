@@ -1,7 +1,6 @@
 package com.bank.service.impl;
 
 import java.math.BigDecimal;
-import java.util.List;
 
 import com.bank.dao.AccountDAO;
 import com.bank.dao.impl.AccountDAOImpl;
@@ -21,10 +20,6 @@ public class AccountServiceImpl implements AccountService {
 		} else {
 			return i;
 		}
-	}
-	@Override
-	public List<Integer> getActivatedCustAccountIds(int id) {
-		return dao.getActivatedAccountIdsByCustId(id);
 	}
 	@Override
 	public int modifyBalance(int id, BigDecimal balance) throws BusinessException {

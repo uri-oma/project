@@ -194,7 +194,9 @@ public class Menu {
 				if (s.equalsIgnoreCase("y")) {
 					o("how much would you like to deposit?");
 					s = sc.nextLine();
-					if (InputValidation.validateMoney(s)) { acc.setBalance(BigDecimal.valueOf(Double.parseDouble(s.replaceAll("[$]", "")))); }
+					if (InputValidation.validateMoney(s)) { 
+						acc.setBalance(BigDecimal.valueOf(Double.parseDouble(s.replaceAll("[$]", ""))));
+					}
 				} else {
 					acc.setBalance(BigDecimal.ZERO);
 				}
@@ -257,7 +259,7 @@ public class Menu {
 	}
 	public static void displayWithdraw(int id) { // displays withdraw prompt
 		String s;
-		List<Integer> li = as.getActivatedCustAccountIds(id);
+		List<Integer> li = adao.getActivatedAccountIdsByCustId(id);
 		
 		if (li.size() != 0) {
 			oln("which account would you like to make a withdrawal?");
@@ -283,8 +285,8 @@ public class Menu {
 						tr.setAmount(BigDecimal.valueOf(Double.parseDouble(s.replaceAll("[$]", ""))));
 						tr.setType(0);
 						tr.setDate(new Date());
-						oln(tr.toString());
 						tdao.addWithdrawalOrDeposit(tr);
+						oln(tr.toString());
 					} else {
 						oln("can't withdraw more than $" + activeAccount.getBalance());
 					}
@@ -298,7 +300,7 @@ public class Menu {
 	}
 	public static void displayDeposit(int id) { // displays deposit prompt
 		String s;
-		List<Integer> li = as.getActivatedCustAccountIds(id);
+		List<Integer> li = adao.getActivatedAccountIdsByCustId(id);
 		
 		if (li.size() != 0) {
 			oln("which account would you like to make a deposit?");
@@ -324,8 +326,8 @@ public class Menu {
 						tr.setAmount(BigDecimal.valueOf(Double.parseDouble(s.replaceAll("[$]", ""))));
 						tr.setType(1);
 						tr.setDate(new Date());
-						oln(tr.toString());
 						tdao.addWithdrawalOrDeposit(tr);
+						oln(tr.toString());
 					}
 				}
 			} catch (BusinessException e) {
@@ -355,7 +357,7 @@ public class Menu {
 	}
 	public static void displayPostTransfer(int id) { // displays post transfer prompt
 		String s;
-		List<Integer> li = as.getActivatedCustAccountIds(id);
+		List<Integer> li = adao.getActivatedAccountIdsByCustId(id);
 		
 		if (li.size() != 0) {
 			oln("which account would you like to transfer from?");
@@ -366,7 +368,7 @@ public class Menu {
 			s = sc.nextLine();
 			b();
 			try {
-				if (InputValidation.validateId(s, as.getActivatedCustAccountIds(id))) {
+				if (InputValidation.validateId(s, adao.getActivatedAccountIdsByCustId(id))) {
 					Account activeAccount = adao.getAccountById(Integer.parseInt(s));
 					oln(activeAccount.toString());
 					o("enter the account number you would like to transfer to:");
@@ -386,8 +388,8 @@ public class Menu {
 							tr.setAmount(BigDecimal.valueOf(Double.parseDouble(s.replaceAll("[$]", ""))));
 							tr.setType(2);
 							tr.setDate(new Date());
-							oln(tr.toString());
 							tdao.addTransfer(tr, toId);
+							oln(tr.toString());
 						} else {
 							oln("can't transfer more than $" + activeAccount.getBalance());
 						}
@@ -410,7 +412,7 @@ public class Menu {
 		if (transfers.size() != 0) {
 			oln("here are your pending transfers:");
 			for (Transaction t : transfers) {
-				o(t.toString());
+				o(t.toFormattedString());
 			}
 			b();
 			o("enter transfer id to approve or reject:");
@@ -445,7 +447,7 @@ public class Menu {
 			oln("you have no pending transfers");
 		}
 	}
-	public static void displayApproveCustomer(int id) {
+	public static void displayApproveCustomer(int id) { // displays approve customer prompt
 		String s;
 		List<Account> pending = adao.getPendingAccounts();
 		List<Integer> pendingId = new ArrayList<Integer>();
@@ -464,7 +466,7 @@ public class Menu {
 				if (InputValidation.validateId(s, pendingId)) {
 					Account activeAccount = adao.getAccountById(Integer.parseInt(s));
 					oln(activeAccount.toString());
-					oln("would you like to approve this account?");
+					oln("would you like to approve this account? (y/n)");
 					try {
 						s = sc.nextLine();
 						b();
@@ -488,7 +490,7 @@ public class Menu {
 			oln("there are no pending accounts");
 		}
 	}
-	public static void displayViewCustomer() {
+	public static void displayViewCustomer() { // displays view customer account prompt
 		String s;
 		List<Integer> custIds = udao.getAllCustomerIds();
 		List<Integer> accountIds;
@@ -518,16 +520,17 @@ public class Menu {
 			errorln(e.getMessage());
 		}
 	}
-	public static void displayLogs() {
+	public static void displayLogs() { // displays logs of all transactions
 		oln("full transaction log:");
 		for (Transaction t : tdao.getAllTransactions()) {
-			o(t.toString());
+			o(t.toFormattedString());
 		}
 		b();
 	}
 	public static void displayBye() { // displays bye message
 		oln(displayBorder('-'));
 		oln("thank you for banking with BIG BUCK$ BANK!!");
+		oln("<< BBB Application v1.0 >>");
 	}
 	// UTILITY
 	private static String centerString(String s) { // center string 's' within the display

@@ -74,15 +74,36 @@ public class Transaction {
 		
 		switch (type) {
 		case WITHDRAWAL:
-			s += "withdrawal from account " + from_id + " of " + currencyFormat(amount);
+			s += "withdrawal " + id + " from acc " + from_id + " of " + currencyFormat(amount);
 			break;
 		case DEPOSIT:
-			s += "deposit to account " + from_id + " of " + currencyFormat(amount);
+			s += "deposit " + id + " to   acc " + from_id + " of " + currencyFormat(amount);
 			break;
 		case TRANSFER_APPROVED:
-			s += "transfer from account " + from_id + " to account " + to_id + " of " + currencyFormat(amount);
+			s += "approved transfer " + id + " from acc " + from_id + " to acc " + to_id + " of " + currencyFormat(amount);
 			break;
-		default:
+		case TRANSFER_PENDING:
+			s += "pending transfer " + id + " from acc " + from_id + " to acc " + to_id + " of " + currencyFormat(amount);
+			break;
+		}
+
+		return s;
+	}
+	public String toFormattedString() {
+		String s = "[" + date + "] ";
+		
+		switch (type) {
+		case WITHDRAWAL:
+			s += String.format("%-20s", "withdrawal") + id + " from acc " + from_id + " of " + currencyFormat(amount);
+			break;
+		case DEPOSIT:
+			s += String.format("%-20s", "deposit") + id + " to   acc " + from_id + " of " + currencyFormat(amount);
+			break;
+		case TRANSFER_APPROVED:
+			s += String.format("%-20s", "approved transfer") + id + " from acc " + from_id + " to acc " + to_id + " of " + currencyFormat(amount);
+			break;
+		case TRANSFER_PENDING:
+			s += String.format("%-20s", "pending transfer") + id + " from acc " + from_id + " to acc " + to_id + " of " + currencyFormat(amount);
 			break;
 		}
 
