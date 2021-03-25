@@ -153,5 +153,34 @@ public class UserDAOImpl implements UserDAO {
 		}
 		return li;
 	}
-	
+	@Override
+	public String getNameFromId(int id) {
+		try (Connection connection = PostgresConnection.getConnection()) {
+			String sql = "select first_name, last_name from bank.users where id = ?";
+			PreparedStatement ps = connection.prepareStatement(sql);
+			ps.setInt(1, id);
+			ResultSet rs = ps.executeQuery();
+			if (rs.next()) {
+				return rs.getString("first_name") + " " + rs.getString("last_name");
+			}
+		} catch (ClassNotFoundException | SQLException e) {
+			Menu.errorln(e.getMessage());
+		}
+		return null;
+	}
+	@Override
+	public String getNameFromAccountId(int id) {
+		try (Connection connection = PostgresConnection.getConnection()) {
+			String sql = "select first_name, last_name from bank.users join bank.accounts on bank.users.id = bank.accounts.cust_id where bank.accounts.id = ?";
+			PreparedStatement ps = connection.prepareStatement(sql);
+			ps.setInt(1, id);
+			ResultSet rs = ps.executeQuery();
+			if (rs.next()) {
+				return rs.getString("first_name") + " " + rs.getString("last_name");
+			}
+		} catch (ClassNotFoundException | SQLException e) {
+			Menu.errorln(e.getMessage());
+		}
+		return null;
+	}
 }

@@ -11,7 +11,7 @@ public interface AccountDAO {
 	Account getAccountById(int id);
 	List<Integer> getActivatedAccountIdsByCustId(int id);
 	int modifyBalance(int id, BigDecimal balance);
-	List<Integer> getAllAccountIds();
+	List<Integer> getAllActivatedAccountIds();
 	List<Account> getPendingAccounts();
 	int activate(int accountId, int empId);
 	int deleteAccount(int id);

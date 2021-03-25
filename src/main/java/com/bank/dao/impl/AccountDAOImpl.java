@@ -106,10 +106,10 @@ public class AccountDAOImpl implements AccountDAO {
 		return i;
 	}
 	@Override
-	public List<Integer> getAllAccountIds() {
+	public List<Integer> getAllActivatedAccountIds() {
 		List<Integer> li = new ArrayList<Integer>();
 		try (Connection connection = PostgresConnection.getConnection()) {
-			String sql = "select id from bank.accounts order by id";
+			String sql = "select id from bank.accounts where is_activated = true order by id";
 			PreparedStatement ps = connection.prepareStatement(sql);
 			ResultSet rs = ps.executeQuery();
 			while (rs.next()) {

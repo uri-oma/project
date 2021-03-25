@@ -14,33 +14,33 @@ import com.bank.dao.UserDAO;
 import com.bank.dao.impl.UserDAOImpl;
 
 @RunWith(Parameterized.class)
-public class GetPassFromIdTest {
+public class GetNameFromIdTest {
 	private UserDAO dao = new UserDAOImpl();
 	
 	@Parameters
 	public static Collection<Object[]> cases() {
 		return Arrays.asList(new Object[][] {
-			{"rock", 1001},
-			{"wheel", 1002},
-			{"quest", 1003},
-			{"loss", 1004},
-			{"store", 1005},
-			{"real", 1006},
-			{"flash", 1007},
-			{"branch", 1008}
+			{"Truman Ellington", 1001},
+			{"Katheryn Minett", 1002},
+			{"Oliver Herbert", 1003},
+			{"Delia Ericson", 1004},
+			{"Andrew Powers", 1005},
+			{"Hudson Brester", 1006},
+			{"Rosemarie Martel", 1007},
+			{"Royal Nye", 1008}
 		});
 	}
 	
 	private final String pass;
 	private final int id;
 	
-	public GetPassFromIdTest(String pass, int id) {
+	public GetNameFromIdTest(String pass, int id) {
 		this.pass = pass;
 		this.id = id;
 	}
 	
 	@Test
-	public void testGetPassFromId() {
-		assertEquals(pass, dao.getPassFromId(id));
+	public void testGetNameFromId() {
+		assertEquals(pass, dao.getNameFromId(id));
 	}
 }

@@ -20,6 +20,7 @@ import com.bank.model.Account;
 import com.bank.model.Customer;
 import com.bank.model.Transaction;
 import com.bank.model.User;
+import com.bank.model.enums.AccountType;
 import com.bank.service.AccountService;
 import com.bank.service.UserService;
 import com.bank.service.impl.AccountServiceImpl;
@@ -285,7 +286,7 @@ public class Menu {
 						tr.setAmount(BigDecimal.valueOf(Double.parseDouble(s.replaceAll("[$]", ""))));
 						tr.setType(0);
 						tr.setDate(new Date());
-						tdao.addWithdrawalOrDeposit(tr);
+						tr.setId(tdao.addWithdrawalOrDeposit(tr));
 						oln(tr.toString());
 					} else {
 						oln("can't withdraw more than $" + activeAccount.getBalance());
@@ -326,7 +327,7 @@ public class Menu {
 						tr.setAmount(BigDecimal.valueOf(Double.parseDouble(s.replaceAll("[$]", ""))));
 						tr.setType(1);
 						tr.setDate(new Date());
-						tdao.addWithdrawalOrDeposit(tr);
+						tr.setId(tdao.addWithdrawalOrDeposit(tr));
 						oln(tr.toString());
 					}
 				}
@@ -373,7 +374,7 @@ public class Menu {
 					oln(activeAccount.toString());
 					o("enter the account number you would like to transfer to:");
 					s = sc.nextLine();
-					if (InputValidation.validateId(s, adao.getAllAccountIds()) && Integer.parseInt(s) != activeAccount.getId()) {
+					if (InputValidation.validateId(s, adao.getAllActivatedAccountIds()) && Integer.parseInt(s) != activeAccount.getId()) {
 						int toId = Integer.parseInt(s);
 						o("how much would you like to transfer?");
 						s = sc.nextLine();
@@ -388,7 +389,7 @@ public class Menu {
 							tr.setAmount(BigDecimal.valueOf(Double.parseDouble(s.replaceAll("[$]", ""))));
 							tr.setType(2);
 							tr.setDate(new Date());
-							tdao.addTransfer(tr, toId);
+							tr.setId(tdao.addTransfer(tr, toId));
 							oln(tr.toString());
 						} else {
 							oln("can't transfer more than $" + activeAccount.getBalance());
@@ -412,7 +413,7 @@ public class Menu {
 		if (transfers.size() != 0) {
 			oln("here are your pending transfers:");
 			for (Transaction t : transfers) {
-				o(t.toFormattedString());
+				o(t.toString());
 			}
 			b();
 			o("enter transfer id to approve or reject:");
@@ -420,7 +421,7 @@ public class Menu {
 			try {
 				if (InputValidation.validateTransferId(s, transfers)) {
 					activeTransaction = tdao.getTransactionFromId(Integer.parseInt(s));
-					oln(activeTransaction.toString());
+					oln("pending transfer " + activeTransaction.getId() + " from " + udao.getNameFromAccountId(activeTransaction.getFrom_id()) + " to acc " + activeTransaction.getTo_id() + " of " + Transaction.currencyFormat(activeTransaction.getAmount()));
 					oln("would you like to approve this transfer? (y/n)");
 					try {
 						s = sc.nextLine();
@@ -432,7 +433,7 @@ public class Menu {
 								tdao.approveTransfer(activeTransaction);
 							} else {
 								as.modifyBalance(activeTransaction.getFrom_id(), adao.getAccountById(activeTransaction.getFrom_id()).getBalance().add(activeTransaction.getAmount()));
-								oln(adao.getAccountById(activeTransaction.getFrom_id()).toString());
+								oln("transfer rejected");
 								tdao.rejectTransfer(activeTransaction);
 							}
 						}
@@ -465,7 +466,7 @@ public class Menu {
 			try {
 				if (InputValidation.validateId(s, pendingId)) {
 					Account activeAccount = adao.getAccountById(Integer.parseInt(s));
-					oln(activeAccount.toString());
+					oln(AccountType.values()[activeAccount.getAT()] + " " + activeAccount.getId() + " (initial balance $" + activeAccount.getBalance() + ") for " + udao.getNameFromId(activeAccount.getCust_id()) + " is pending review");
 					oln("would you like to approve this account? (y/n)");
 					try {
 						s = sc.nextLine();

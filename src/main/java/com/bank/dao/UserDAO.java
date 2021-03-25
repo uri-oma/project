@@ -11,4 +11,6 @@ public interface UserDAO {
 	int addCustomer(Customer c);
 	int incrementApproved(int empId);
 	List<Integer> getAllCustomerIds();
+	String getNameFromId(int id);
+	String getNameFromAccountId(int id);
 }

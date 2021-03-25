@@ -77,7 +77,7 @@ public class Transaction {
 			s += "withdrawal " + id + " from acc " + from_id + " of " + currencyFormat(amount);
 			break;
 		case DEPOSIT:
-			s += "deposit " + id + " to   acc " + from_id + " of " + currencyFormat(amount);
+			s += "deposit " + id + " to acc " + from_id + " of " + currencyFormat(amount);
 			break;
 		case TRANSFER_APPROVED:
 			s += "approved transfer " + id + " from acc " + from_id + " to acc " + to_id + " of " + currencyFormat(amount);
@@ -90,7 +90,7 @@ public class Transaction {
 		return s;
 	}
 	public String toFormattedString() {
-		String s = "[" + date + "] ";
+		String s = String.format("%-26s", "[" + date + "] ");
 		
 		switch (type) {
 		case WITHDRAWAL:

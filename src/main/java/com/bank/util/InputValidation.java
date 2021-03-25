@@ -74,7 +74,7 @@ public class InputValidation {
 				return true;
 			}
 		}
-		throw new BusinessException("id does not match any accounts");
+		throw new BusinessException("id does not match any valid accounts");
 	}
 	public static boolean validateTransferId(String s, List<Transaction> tr) throws BusinessException {
 		for (Transaction t : tr) {

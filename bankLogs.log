@@ -12424,3 +12424,2627 @@ INFO [com.bank.util.Menu] March 24 - 09:35 - 2 - view customer's account
 INFO [com.bank.util.Menu] March 24 - 09:35 - 3 - view transaction logs
 INFO [com.bank.util.Menu] March 24 - 09:35 - ==== 0 - exit ====
 INFO [com.bank.util.Menu] March 24 - 09:35 - 
+INFO [com.bank.util.Menu] March 24 - 11:04 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 24 - 11:04 - 
+INFO [com.bank.util.Menu] March 24 - 11:04 -                          BIG BUCK$ BANK
+INFO [com.bank.util.Menu] March 24 - 11:04 - 
+INFO [com.bank.util.Menu] March 24 - 11:04 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 24 - 11:04 - 
+INFO [com.bank.util.Menu] March 24 - 11:04 - what would you like to do?
+INFO [com.bank.util.Menu] March 24 - 11:04 - 
+INFO [com.bank.util.Menu] March 24 - 11:04 - 1 - log in
+INFO [com.bank.util.Menu] March 24 - 11:04 - 2 - register for customer account
+INFO [com.bank.util.Menu] March 24 - 11:04 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 24 - 11:04 - 
+INFO [com.bank.util.Menu] March 24 - 11:04 - 
+INFO [com.bank.util.Menu] March 24 - 11:04 - enter user id:
+INFO [com.bank.util.Menu] March 24 - 11:04 - enter user password:
+INFO [com.bank.util.Menu] March 24 - 11:04 - 
+INFO [com.bank.util.Menu] March 24 - 11:04 - W E L C O M E , Truman Ellington!
+INFO [com.bank.util.Menu] March 24 - 11:04 - 
+INFO [com.bank.util.Menu] March 24 - 11:04 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 24 - 11:04 - 
+INFO [com.bank.util.Menu] March 24 - 11:04 -                        BBB Customer Menu
+INFO [com.bank.util.Menu] March 24 - 11:04 - 
+INFO [com.bank.util.Menu] March 24 - 11:04 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 24 - 11:04 - 
+INFO [com.bank.util.Menu] March 24 - 11:04 - what would you like to do?
+INFO [com.bank.util.Menu] March 24 - 11:04 - 
+INFO [com.bank.util.Menu] March 24 - 11:04 - 1 - apply for new bank account
+INFO [com.bank.util.Menu] March 24 - 11:04 - 2 - view account balances
+INFO [com.bank.util.Menu] March 24 - 11:04 - 3 - withdraw or deposit
+INFO [com.bank.util.Menu] March 24 - 11:04 - 4 - manage transfers
+INFO [com.bank.util.Menu] March 24 - 11:04 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 24 - 11:04 - 
+INFO [com.bank.util.Menu] March 24 - 11:05 - 
+INFO [com.bank.util.Menu] March 24 - 11:05 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 24 - 11:05 - 
+INFO [com.bank.util.Menu] March 24 - 11:05 -                          BIG BUCK$ BANK
+INFO [com.bank.util.Menu] March 24 - 11:05 - 
+INFO [com.bank.util.Menu] March 24 - 11:05 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 24 - 11:05 - 
+INFO [com.bank.util.Menu] March 24 - 11:05 - what would you like to do?
+INFO [com.bank.util.Menu] March 24 - 11:05 - 
+INFO [com.bank.util.Menu] March 24 - 11:05 - 1 - log in
+INFO [com.bank.util.Menu] March 24 - 11:05 - 2 - register for customer account
+INFO [com.bank.util.Menu] March 24 - 11:05 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 24 - 11:05 - 
+INFO [com.bank.util.Menu] March 24 - 11:05 - 
+INFO [com.bank.util.Menu] March 24 - 11:05 - ----------------------------------------------------------------
+INFO [com.bank.util.Menu] March 24 - 11:05 - 
+INFO [com.bank.util.Menu] March 24 - 11:05 - thank you for banking with BIG BUCK$ BANK!!
+INFO [com.bank.util.Menu] March 24 - 11:05 - 
+INFO [com.bank.util.Menu] March 24 - 11:05 - << BBB Application v1.0 >>
+INFO [com.bank.util.Menu] March 24 - 11:05 - 
+INFO [com.bank.util.Menu] March 25 - 00:47 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 00:47 - 
+INFO [com.bank.util.Menu] March 25 - 00:47 -                          BIG BUCK$ BANK
+INFO [com.bank.util.Menu] March 25 - 00:47 - 
+INFO [com.bank.util.Menu] March 25 - 00:47 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 00:47 - 
+INFO [com.bank.util.Menu] March 25 - 00:47 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 00:47 - 
+INFO [com.bank.util.Menu] March 25 - 00:47 - 1 - log in
+INFO [com.bank.util.Menu] March 25 - 00:47 - 2 - register for customer account
+INFO [com.bank.util.Menu] March 25 - 00:47 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 00:47 - 
+INFO [com.bank.util.Menu] March 25 - 00:47 - 
+INFO [com.bank.util.Menu] March 25 - 00:47 - enter user id:
+INFO [com.bank.util.Menu] March 25 - 00:47 - enter user password:
+INFO [com.bank.util.Menu] March 25 - 00:47 - 
+INFO [com.bank.util.Menu] March 25 - 00:47 - W E L C O M E , Truman Ellington!
+INFO [com.bank.util.Menu] March 25 - 00:47 - 
+INFO [com.bank.util.Menu] March 25 - 00:47 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 00:47 - 
+INFO [com.bank.util.Menu] March 25 - 00:47 -                        BBB Customer Menu
+INFO [com.bank.util.Menu] March 25 - 00:47 - 
+INFO [com.bank.util.Menu] March 25 - 00:47 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 00:47 - 
+INFO [com.bank.util.Menu] March 25 - 00:47 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 00:47 - 
+INFO [com.bank.util.Menu] March 25 - 00:47 - 1 - apply for new bank account
+INFO [com.bank.util.Menu] March 25 - 00:47 - 2 - view account balances
+INFO [com.bank.util.Menu] March 25 - 00:47 - 3 - withdraw or deposit
+INFO [com.bank.util.Menu] March 25 - 00:47 - 4 - manage transfers
+INFO [com.bank.util.Menu] March 25 - 00:47 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 00:47 - 
+INFO [com.bank.util.Menu] March 25 - 00:47 - 
+INFO [com.bank.util.Menu] March 25 - 00:47 - would you like to post or approve a transfer?
+INFO [com.bank.util.Menu] March 25 - 00:47 - 
+INFO [com.bank.util.Menu] March 25 - 00:47 - 1 - post
+INFO [com.bank.util.Menu] March 25 - 00:47 - 2 - approve
+INFO [com.bank.util.Menu] March 25 - 00:47 - 
+INFO [com.bank.util.Menu] March 25 - 00:47 - 
+INFO [com.bank.util.Menu] March 25 - 00:47 - which account would you like to transfer from?
+INFO [com.bank.util.Menu] March 25 - 00:47 - 
+INFO [com.bank.util.Menu] March 25 - 00:47 - 100025
+INFO [com.bank.util.Menu] March 25 - 00:47 - 100030
+INFO [com.bank.util.Menu] March 25 - 00:47 - 
+INFO [com.bank.util.Menu] March 25 - 00:47 - 
+INFO [com.bank.util.Menu] March 25 - 00:47 - SAVINGS 100025: $358.14
+INFO [com.bank.util.Menu] March 25 - 00:47 - 
+INFO [com.bank.util.Menu] March 25 - 00:47 - enter the account number you would like to transfer to:
+INFO [com.bank.util.Menu] March 25 - 00:47 - id does not match any accounts
+INFO [com.bank.util.Menu] March 25 - 00:47 - 
+INFO [com.bank.util.Menu] March 25 - 00:47 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 00:47 - 
+INFO [com.bank.util.Menu] March 25 - 00:47 -                        BBB Customer Menu
+INFO [com.bank.util.Menu] March 25 - 00:47 - 
+INFO [com.bank.util.Menu] March 25 - 00:47 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 00:47 - 
+INFO [com.bank.util.Menu] March 25 - 00:47 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 00:47 - 
+INFO [com.bank.util.Menu] March 25 - 00:47 - 1 - apply for new bank account
+INFO [com.bank.util.Menu] March 25 - 00:47 - 2 - view account balances
+INFO [com.bank.util.Menu] March 25 - 00:47 - 3 - withdraw or deposit
+INFO [com.bank.util.Menu] March 25 - 00:47 - 4 - manage transfers
+INFO [com.bank.util.Menu] March 25 - 00:47 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 00:47 - 
+INFO [com.bank.util.Menu] March 25 - 08:04 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:04 - 
+INFO [com.bank.util.Menu] March 25 - 08:04 -                          BIG BUCK$ BANK
+INFO [com.bank.util.Menu] March 25 - 08:04 - 
+INFO [com.bank.util.Menu] March 25 - 08:04 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:04 - 
+INFO [com.bank.util.Menu] March 25 - 08:04 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:04 - 
+INFO [com.bank.util.Menu] March 25 - 08:04 - 1 - log in
+INFO [com.bank.util.Menu] March 25 - 08:04 - 2 - register for customer account
+INFO [com.bank.util.Menu] March 25 - 08:04 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:04 - 
+INFO [com.bank.util.Menu] March 25 - 08:04 - 
+INFO [com.bank.util.Menu] March 25 - 08:04 - enter user id:
+INFO [com.bank.util.Menu] March 25 - 08:04 - enter user password:
+INFO [com.bank.util.Menu] March 25 - 08:04 - 
+INFO [com.bank.util.Menu] March 25 - 08:04 - W E L C O M E , Rosemarie Martel!
+INFO [com.bank.util.Menu] March 25 - 08:04 - 
+INFO [com.bank.util.Menu] March 25 - 08:04 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:04 - 
+INFO [com.bank.util.Menu] March 25 - 08:04 -                        BBB Customer Menu
+INFO [com.bank.util.Menu] March 25 - 08:04 - 
+INFO [com.bank.util.Menu] March 25 - 08:04 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:04 - 
+INFO [com.bank.util.Menu] March 25 - 08:04 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:04 - 
+INFO [com.bank.util.Menu] March 25 - 08:04 - 1 - apply for new bank account
+INFO [com.bank.util.Menu] March 25 - 08:04 - 2 - view account balances
+INFO [com.bank.util.Menu] March 25 - 08:04 - 3 - withdraw or deposit
+INFO [com.bank.util.Menu] March 25 - 08:04 - 4 - manage transfers
+INFO [com.bank.util.Menu] March 25 - 08:04 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:04 - 
+INFO [com.bank.util.Menu] March 25 - 08:04 - 
+INFO [com.bank.util.Menu] March 25 - 08:04 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:04 - 
+INFO [com.bank.util.Menu] March 25 - 08:04 -                          BIG BUCK$ BANK
+INFO [com.bank.util.Menu] March 25 - 08:04 - 
+INFO [com.bank.util.Menu] March 25 - 08:04 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:04 - 
+INFO [com.bank.util.Menu] March 25 - 08:04 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:04 - 
+INFO [com.bank.util.Menu] March 25 - 08:04 - 1 - log in
+INFO [com.bank.util.Menu] March 25 - 08:04 - 2 - register for customer account
+INFO [com.bank.util.Menu] March 25 - 08:04 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:04 - 
+INFO [com.bank.util.Menu] March 25 - 08:05 - 
+ERROR [com.bank.util.Menu] March 25 - 08:05 - input is not in valid range of 0 and 2
+INFO [com.bank.util.Menu] March 25 - 08:05 - 
+INFO [com.bank.util.Menu] March 25 - 08:05 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:05 - 
+INFO [com.bank.util.Menu] March 25 - 08:05 -                          BIG BUCK$ BANK
+INFO [com.bank.util.Menu] March 25 - 08:05 - 
+INFO [com.bank.util.Menu] March 25 - 08:05 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:05 - 
+INFO [com.bank.util.Menu] March 25 - 08:05 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:05 - 
+INFO [com.bank.util.Menu] March 25 - 08:05 - 1 - log in
+INFO [com.bank.util.Menu] March 25 - 08:05 - 2 - register for customer account
+INFO [com.bank.util.Menu] March 25 - 08:05 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:05 - 
+INFO [com.bank.util.Menu] March 25 - 08:05 - 
+INFO [com.bank.util.Menu] March 25 - 08:05 - enter user id:
+INFO [com.bank.util.Menu] March 25 - 08:05 - enter user password:
+INFO [com.bank.util.Menu] March 25 - 08:05 - 
+INFO [com.bank.util.Menu] March 25 - 08:05 - W E L C O M E , Chad London!
+INFO [com.bank.util.Menu] March 25 - 08:05 - 
+INFO [com.bank.util.Menu] March 25 - 08:05 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:05 - 
+INFO [com.bank.util.Menu] March 25 - 08:05 -                        BBB Employee Menu
+INFO [com.bank.util.Menu] March 25 - 08:05 - 
+INFO [com.bank.util.Menu] March 25 - 08:05 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:05 - 
+INFO [com.bank.util.Menu] March 25 - 08:05 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:05 - 
+INFO [com.bank.util.Menu] March 25 - 08:05 - 1 - view pending customer accounts
+INFO [com.bank.util.Menu] March 25 - 08:05 - 2 - view customer's account
+INFO [com.bank.util.Menu] March 25 - 08:05 - 3 - view transaction logs
+INFO [com.bank.util.Menu] March 25 - 08:05 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:05 - 
+INFO [com.bank.util.Menu] March 25 - 08:05 - 
+INFO [com.bank.util.Menu] March 25 - 08:05 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:05 - 
+INFO [com.bank.util.Menu] March 25 - 08:05 -                          BIG BUCK$ BANK
+INFO [com.bank.util.Menu] March 25 - 08:05 - 
+INFO [com.bank.util.Menu] March 25 - 08:05 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:05 - 
+INFO [com.bank.util.Menu] March 25 - 08:05 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:05 - 
+INFO [com.bank.util.Menu] March 25 - 08:05 - 1 - log in
+INFO [com.bank.util.Menu] March 25 - 08:05 - 2 - register for customer account
+INFO [com.bank.util.Menu] March 25 - 08:05 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:05 - 
+INFO [com.bank.util.Menu] March 25 - 08:05 - 
+INFO [com.bank.util.Menu] March 25 - 08:05 - enter user id:
+INFO [com.bank.util.Menu] March 25 - 08:05 - enter user password:
+INFO [com.bank.util.Menu] March 25 - 08:05 - 
+INFO [com.bank.util.Menu] March 25 - 08:05 - W E L C O M E , Wyatt Plaskett!
+INFO [com.bank.util.Menu] March 25 - 08:05 - 
+INFO [com.bank.util.Menu] March 25 - 08:05 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:05 - 
+INFO [com.bank.util.Menu] March 25 - 08:05 -                        BBB Customer Menu
+INFO [com.bank.util.Menu] March 25 - 08:05 - 
+INFO [com.bank.util.Menu] March 25 - 08:05 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:05 - 
+INFO [com.bank.util.Menu] March 25 - 08:05 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:05 - 
+INFO [com.bank.util.Menu] March 25 - 08:05 - 1 - apply for new bank account
+INFO [com.bank.util.Menu] March 25 - 08:05 - 2 - view account balances
+INFO [com.bank.util.Menu] March 25 - 08:05 - 3 - withdraw or deposit
+INFO [com.bank.util.Menu] March 25 - 08:05 - 4 - manage transfers
+INFO [com.bank.util.Menu] March 25 - 08:05 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:05 - 
+INFO [com.bank.util.Menu] March 25 - 08:05 - 
+INFO [com.bank.util.Menu] March 25 - 08:05 - what kind of account would you like to apply for?
+INFO [com.bank.util.Menu] March 25 - 08:05 - 
+INFO [com.bank.util.Menu] March 25 - 08:05 - 1 - checking
+INFO [com.bank.util.Menu] March 25 - 08:05 - 2 - savings
+INFO [com.bank.util.Menu] March 25 - 08:05 - 
+INFO [com.bank.util.Menu] March 25 - 08:05 - 
+INFO [com.bank.util.Menu] March 25 - 08:05 - would you like to make an initial deposit? (y/n)
+INFO [com.bank.util.Menu] March 25 - 08:05 - how much would you like to deposit?
+INFO [com.bank.util.Menu] March 25 - 08:05 - 
+INFO [com.bank.util.Menu] March 25 - 08:05 - application successful! your account id is: 100035
+INFO [com.bank.util.Menu] March 25 - 08:05 - your bank account is pending review by an employee
+INFO [com.bank.util.Menu] March 25 - 08:05 - 
+INFO [com.bank.util.Menu] March 25 - 08:05 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:05 - 
+INFO [com.bank.util.Menu] March 25 - 08:05 -                        BBB Customer Menu
+INFO [com.bank.util.Menu] March 25 - 08:05 - 
+INFO [com.bank.util.Menu] March 25 - 08:05 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:05 - 
+INFO [com.bank.util.Menu] March 25 - 08:05 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:05 - 
+INFO [com.bank.util.Menu] March 25 - 08:05 - 1 - apply for new bank account
+INFO [com.bank.util.Menu] March 25 - 08:05 - 2 - view account balances
+INFO [com.bank.util.Menu] March 25 - 08:05 - 3 - withdraw or deposit
+INFO [com.bank.util.Menu] March 25 - 08:05 - 4 - manage transfers
+INFO [com.bank.util.Menu] March 25 - 08:05 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:05 - 
+INFO [com.bank.util.Menu] March 25 - 08:05 - 
+INFO [com.bank.util.Menu] March 25 - 08:05 - which account balance would you like to view?
+INFO [com.bank.util.Menu] March 25 - 08:05 - 
+INFO [com.bank.util.Menu] March 25 - 08:05 - 100003
+INFO [com.bank.util.Menu] March 25 - 08:05 - 100009
+INFO [com.bank.util.Menu] March 25 - 08:05 - 100010
+INFO [com.bank.util.Menu] March 25 - 08:05 - 100018
+INFO [com.bank.util.Menu] March 25 - 08:05 - 100022
+INFO [com.bank.util.Menu] March 25 - 08:05 - 100035
+INFO [com.bank.util.Menu] March 25 - 08:05 - 
+INFO [com.bank.util.Menu] March 25 - 08:05 - 
+INFO [com.bank.util.Menu] March 25 - 08:05 - CHECKING 100035 (initial balance $300.05) is pending review
+INFO [com.bank.util.Menu] March 25 - 08:05 - 
+INFO [com.bank.util.Menu] March 25 - 08:05 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:05 - 
+INFO [com.bank.util.Menu] March 25 - 08:05 -                        BBB Customer Menu
+INFO [com.bank.util.Menu] March 25 - 08:05 - 
+INFO [com.bank.util.Menu] March 25 - 08:05 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:05 - 
+INFO [com.bank.util.Menu] March 25 - 08:05 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:05 - 
+INFO [com.bank.util.Menu] March 25 - 08:05 - 1 - apply for new bank account
+INFO [com.bank.util.Menu] March 25 - 08:05 - 2 - view account balances
+INFO [com.bank.util.Menu] March 25 - 08:05 - 3 - withdraw or deposit
+INFO [com.bank.util.Menu] March 25 - 08:05 - 4 - manage transfers
+INFO [com.bank.util.Menu] March 25 - 08:05 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:05 - 
+INFO [com.bank.util.Menu] March 25 - 08:05 - 
+INFO [com.bank.util.Menu] March 25 - 08:05 - what kind of transaction would you like to make?
+INFO [com.bank.util.Menu] March 25 - 08:05 - 
+INFO [com.bank.util.Menu] March 25 - 08:05 - 1 - withdrawal
+INFO [com.bank.util.Menu] March 25 - 08:05 - 2 - deposit
+INFO [com.bank.util.Menu] March 25 - 08:05 - 
+INFO [com.bank.util.Menu] March 25 - 08:06 - 
+INFO [com.bank.util.Menu] March 25 - 08:06 - which account would you like to make a deposit?
+INFO [com.bank.util.Menu] March 25 - 08:06 - 
+INFO [com.bank.util.Menu] March 25 - 08:06 - 100003
+INFO [com.bank.util.Menu] March 25 - 08:06 - 100009
+INFO [com.bank.util.Menu] March 25 - 08:06 - 100010
+INFO [com.bank.util.Menu] March 25 - 08:06 - 100018
+INFO [com.bank.util.Menu] March 25 - 08:06 - 100022
+INFO [com.bank.util.Menu] March 25 - 08:06 - 
+INFO [com.bank.util.Menu] March 25 - 08:06 - 
+INFO [com.bank.util.Menu] March 25 - 08:06 - SAVINGS 100010: $8548.52
+INFO [com.bank.util.Menu] March 25 - 08:06 - 
+INFO [com.bank.util.Menu] March 25 - 08:06 - how much would you like to deposit?
+INFO [com.bank.util.Menu] March 25 - 08:06 - 
+INFO [com.bank.util.Menu] March 25 - 08:06 - 
+INFO [com.bank.util.Menu] March 25 - 08:06 - new balance for SAVINGS 100010: $8748.52
+INFO [com.bank.util.Menu] March 25 - 08:06 - 
+INFO [com.bank.util.Menu] March 25 - 08:06 - [Thu Mar 25 08:06:12 CDT 2021] deposit 0 to   acc 100010 of $200.00
+INFO [com.bank.util.Menu] March 25 - 08:06 - 
+INFO [com.bank.util.Menu] March 25 - 08:06 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:06 - 
+INFO [com.bank.util.Menu] March 25 - 08:06 -                        BBB Customer Menu
+INFO [com.bank.util.Menu] March 25 - 08:06 - 
+INFO [com.bank.util.Menu] March 25 - 08:06 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:06 - 
+INFO [com.bank.util.Menu] March 25 - 08:06 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:06 - 
+INFO [com.bank.util.Menu] March 25 - 08:06 - 1 - apply for new bank account
+INFO [com.bank.util.Menu] March 25 - 08:06 - 2 - view account balances
+INFO [com.bank.util.Menu] March 25 - 08:06 - 3 - withdraw or deposit
+INFO [com.bank.util.Menu] March 25 - 08:06 - 4 - manage transfers
+INFO [com.bank.util.Menu] March 25 - 08:06 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:06 - 
+INFO [com.bank.util.Menu] March 25 - 08:06 - 
+INFO [com.bank.util.Menu] March 25 - 08:06 - what kind of transaction would you like to make?
+INFO [com.bank.util.Menu] March 25 - 08:06 - 
+INFO [com.bank.util.Menu] March 25 - 08:06 - 1 - withdrawal
+INFO [com.bank.util.Menu] March 25 - 08:06 - 2 - deposit
+INFO [com.bank.util.Menu] March 25 - 08:06 - 
+INFO [com.bank.util.Menu] March 25 - 08:06 - 
+INFO [com.bank.util.Menu] March 25 - 08:06 - which account would you like to make a withdrawal?
+INFO [com.bank.util.Menu] March 25 - 08:06 - 
+INFO [com.bank.util.Menu] March 25 - 08:06 - 100003
+INFO [com.bank.util.Menu] March 25 - 08:06 - 100009
+INFO [com.bank.util.Menu] March 25 - 08:06 - 100010
+INFO [com.bank.util.Menu] March 25 - 08:06 - 100018
+INFO [com.bank.util.Menu] March 25 - 08:06 - 100022
+INFO [com.bank.util.Menu] March 25 - 08:06 - 
+INFO [com.bank.util.Menu] March 25 - 08:06 - 
+INFO [com.bank.util.Menu] March 25 - 08:06 - SAVINGS 100010: $8748.52
+INFO [com.bank.util.Menu] March 25 - 08:06 - 
+INFO [com.bank.util.Menu] March 25 - 08:06 - how much would you like to withdraw?
+INFO [com.bank.util.Menu] March 25 - 08:06 - 
+INFO [com.bank.util.Menu] March 25 - 08:06 - 
+INFO [com.bank.util.Menu] March 25 - 08:06 - new balance for SAVINGS 100010: $8704.39
+INFO [com.bank.util.Menu] March 25 - 08:06 - 
+INFO [com.bank.util.Menu] March 25 - 08:06 - [Thu Mar 25 08:06:33 CDT 2021] withdrawal 0 from acc 100010 of $44.13
+INFO [com.bank.util.Menu] March 25 - 08:06 - 
+INFO [com.bank.util.Menu] March 25 - 08:06 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:06 - 
+INFO [com.bank.util.Menu] March 25 - 08:06 -                        BBB Customer Menu
+INFO [com.bank.util.Menu] March 25 - 08:06 - 
+INFO [com.bank.util.Menu] March 25 - 08:06 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:06 - 
+INFO [com.bank.util.Menu] March 25 - 08:06 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:06 - 
+INFO [com.bank.util.Menu] March 25 - 08:06 - 1 - apply for new bank account
+INFO [com.bank.util.Menu] March 25 - 08:06 - 2 - view account balances
+INFO [com.bank.util.Menu] March 25 - 08:06 - 3 - withdraw or deposit
+INFO [com.bank.util.Menu] March 25 - 08:06 - 4 - manage transfers
+INFO [com.bank.util.Menu] March 25 - 08:06 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:06 - 
+INFO [com.bank.util.Menu] March 25 - 08:06 - 
+INFO [com.bank.util.Menu] March 25 - 08:06 - would you like to post or approve a transfer?
+INFO [com.bank.util.Menu] March 25 - 08:06 - 
+INFO [com.bank.util.Menu] March 25 - 08:06 - 1 - post
+INFO [com.bank.util.Menu] March 25 - 08:06 - 2 - approve
+INFO [com.bank.util.Menu] March 25 - 08:06 - 
+INFO [com.bank.util.Menu] March 25 - 08:06 - 
+INFO [com.bank.util.Menu] March 25 - 08:06 - which account would you like to transfer from?
+INFO [com.bank.util.Menu] March 25 - 08:06 - 
+INFO [com.bank.util.Menu] March 25 - 08:06 - 100003
+INFO [com.bank.util.Menu] March 25 - 08:06 - 100009
+INFO [com.bank.util.Menu] March 25 - 08:06 - 100010
+INFO [com.bank.util.Menu] March 25 - 08:06 - 100018
+INFO [com.bank.util.Menu] March 25 - 08:06 - 100022
+INFO [com.bank.util.Menu] March 25 - 08:06 - 
+INFO [com.bank.util.Menu] March 25 - 08:06 - 
+INFO [com.bank.util.Menu] March 25 - 08:06 - SAVINGS 100010: $8704.39
+INFO [com.bank.util.Menu] March 25 - 08:06 - 
+INFO [com.bank.util.Menu] March 25 - 08:06 - enter the account number you would like to transfer to:
+INFO [com.bank.util.Menu] March 25 - 08:07 - id does not match any valid accounts
+INFO [com.bank.util.Menu] March 25 - 08:07 - 
+INFO [com.bank.util.Menu] March 25 - 08:07 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:07 - 
+INFO [com.bank.util.Menu] March 25 - 08:07 -                        BBB Customer Menu
+INFO [com.bank.util.Menu] March 25 - 08:07 - 
+INFO [com.bank.util.Menu] March 25 - 08:07 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:07 - 
+INFO [com.bank.util.Menu] March 25 - 08:07 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:07 - 
+INFO [com.bank.util.Menu] March 25 - 08:07 - 1 - apply for new bank account
+INFO [com.bank.util.Menu] March 25 - 08:07 - 2 - view account balances
+INFO [com.bank.util.Menu] March 25 - 08:07 - 3 - withdraw or deposit
+INFO [com.bank.util.Menu] March 25 - 08:07 - 4 - manage transfers
+INFO [com.bank.util.Menu] March 25 - 08:07 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:07 - 
+INFO [com.bank.util.Menu] March 25 - 08:07 - 
+INFO [com.bank.util.Menu] March 25 - 08:07 - would you like to post or approve a transfer?
+INFO [com.bank.util.Menu] March 25 - 08:07 - 
+INFO [com.bank.util.Menu] March 25 - 08:07 - 1 - post
+INFO [com.bank.util.Menu] March 25 - 08:07 - 2 - approve
+INFO [com.bank.util.Menu] March 25 - 08:07 - 
+INFO [com.bank.util.Menu] March 25 - 08:07 - 
+INFO [com.bank.util.Menu] March 25 - 08:07 - which account would you like to transfer from?
+INFO [com.bank.util.Menu] March 25 - 08:07 - 
+INFO [com.bank.util.Menu] March 25 - 08:07 - 100003
+INFO [com.bank.util.Menu] March 25 - 08:07 - 100009
+INFO [com.bank.util.Menu] March 25 - 08:07 - 100010
+INFO [com.bank.util.Menu] March 25 - 08:07 - 100018
+INFO [com.bank.util.Menu] March 25 - 08:07 - 100022
+INFO [com.bank.util.Menu] March 25 - 08:07 - 
+INFO [com.bank.util.Menu] March 25 - 08:07 - 
+INFO [com.bank.util.Menu] March 25 - 08:07 - CHECKING 100022: $2261.22
+INFO [com.bank.util.Menu] March 25 - 08:07 - 
+INFO [com.bank.util.Menu] March 25 - 08:07 - enter the account number you would like to transfer to:
+INFO [com.bank.util.Menu] March 25 - 08:07 - how much would you like to transfer?
+INFO [com.bank.util.Menu] March 25 - 08:07 - 
+INFO [com.bank.util.Menu] March 25 - 08:07 - new balance for CHECKING 100022: $261.17
+INFO [com.bank.util.Menu] March 25 - 08:07 - 
+INFO [com.bank.util.Menu] March 25 - 08:07 - [Thu Mar 25 08:07:24 CDT 2021] pending transfer 0 from acc 100022 to acc 100011 of $2,000.05
+INFO [com.bank.util.Menu] March 25 - 08:07 - 
+INFO [com.bank.util.Menu] March 25 - 08:07 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:07 - 
+INFO [com.bank.util.Menu] March 25 - 08:07 -                        BBB Customer Menu
+INFO [com.bank.util.Menu] March 25 - 08:07 - 
+INFO [com.bank.util.Menu] March 25 - 08:07 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:07 - 
+INFO [com.bank.util.Menu] March 25 - 08:07 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:07 - 
+INFO [com.bank.util.Menu] March 25 - 08:07 - 1 - apply for new bank account
+INFO [com.bank.util.Menu] March 25 - 08:07 - 2 - view account balances
+INFO [com.bank.util.Menu] March 25 - 08:07 - 3 - withdraw or deposit
+INFO [com.bank.util.Menu] March 25 - 08:07 - 4 - manage transfers
+INFO [com.bank.util.Menu] March 25 - 08:07 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:07 - 
+INFO [com.bank.util.Menu] March 25 - 08:07 - 
+INFO [com.bank.util.Menu] March 25 - 08:07 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:07 - 
+INFO [com.bank.util.Menu] March 25 - 08:07 -                          BIG BUCK$ BANK
+INFO [com.bank.util.Menu] March 25 - 08:07 - 
+INFO [com.bank.util.Menu] March 25 - 08:07 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:07 - 
+INFO [com.bank.util.Menu] March 25 - 08:07 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:07 - 
+INFO [com.bank.util.Menu] March 25 - 08:07 - 1 - log in
+INFO [com.bank.util.Menu] March 25 - 08:07 - 2 - register for customer account
+INFO [com.bank.util.Menu] March 25 - 08:07 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:07 - 
+INFO [com.bank.util.Menu] March 25 - 08:07 - 
+INFO [com.bank.util.Menu] March 25 - 08:07 - enter user id:
+INFO [com.bank.util.Menu] March 25 - 08:07 - enter user password:
+INFO [com.bank.util.Menu] March 25 - 08:07 - 
+INFO [com.bank.util.Menu] March 25 - 08:07 - W E L C O M E , Hudson Brester!
+INFO [com.bank.util.Menu] March 25 - 08:07 - 
+INFO [com.bank.util.Menu] March 25 - 08:07 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:07 - 
+INFO [com.bank.util.Menu] March 25 - 08:07 -                        BBB Customer Menu
+INFO [com.bank.util.Menu] March 25 - 08:07 - 
+INFO [com.bank.util.Menu] March 25 - 08:07 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:07 - 
+INFO [com.bank.util.Menu] March 25 - 08:07 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:07 - 
+INFO [com.bank.util.Menu] March 25 - 08:07 - 1 - apply for new bank account
+INFO [com.bank.util.Menu] March 25 - 08:07 - 2 - view account balances
+INFO [com.bank.util.Menu] March 25 - 08:07 - 3 - withdraw or deposit
+INFO [com.bank.util.Menu] March 25 - 08:07 - 4 - manage transfers
+INFO [com.bank.util.Menu] March 25 - 08:07 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:07 - 
+INFO [com.bank.util.Menu] March 25 - 08:07 - 
+INFO [com.bank.util.Menu] March 25 - 08:07 - would you like to post or approve a transfer?
+INFO [com.bank.util.Menu] March 25 - 08:07 - 
+INFO [com.bank.util.Menu] March 25 - 08:07 - 1 - post
+INFO [com.bank.util.Menu] March 25 - 08:07 - 2 - approve
+INFO [com.bank.util.Menu] March 25 - 08:07 - 
+INFO [com.bank.util.Menu] March 25 - 08:07 - 
+INFO [com.bank.util.Menu] March 25 - 08:07 - here are your pending transfers:
+INFO [com.bank.util.Menu] March 25 - 08:07 - 
+INFO [com.bank.util.Menu] March 25 - 08:07 - [2021-03-25 08:07:24.748] pending transfer    10000014 from acc 100022 to acc 100011 of $2,000.05
+INFO [com.bank.util.Menu] March 25 - 08:07 - 
+INFO [com.bank.util.Menu] March 25 - 08:07 - enter transfer id to approve or reject:
+INFO [com.bank.util.Menu] March 25 - 08:08 - [2021-03-25 08:07:24.748] pending transfer 10000014 from acc 100022 to acc 100011 of $2,000.05
+INFO [com.bank.util.Menu] March 25 - 08:08 - 
+INFO [com.bank.util.Menu] March 25 - 08:08 - would you like to approve this transfer? (y/n)
+INFO [com.bank.util.Menu] March 25 - 08:08 - 
+INFO [com.bank.util.Menu] March 25 - 08:08 - 
+INFO [com.bank.util.Menu] March 25 - 08:08 - SAVINGS 100011: $9290.87
+INFO [com.bank.util.Menu] March 25 - 08:08 - 
+INFO [com.bank.util.Menu] March 25 - 08:08 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:08 - 
+INFO [com.bank.util.Menu] March 25 - 08:08 -                        BBB Customer Menu
+INFO [com.bank.util.Menu] March 25 - 08:08 - 
+INFO [com.bank.util.Menu] March 25 - 08:08 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:08 - 
+INFO [com.bank.util.Menu] March 25 - 08:08 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:08 - 
+INFO [com.bank.util.Menu] March 25 - 08:08 - 1 - apply for new bank account
+INFO [com.bank.util.Menu] March 25 - 08:08 - 2 - view account balances
+INFO [com.bank.util.Menu] March 25 - 08:08 - 3 - withdraw or deposit
+INFO [com.bank.util.Menu] March 25 - 08:08 - 4 - manage transfers
+INFO [com.bank.util.Menu] March 25 - 08:08 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:08 - 
+INFO [com.bank.util.Menu] March 25 - 08:09 - 
+INFO [com.bank.util.Menu] March 25 - 08:09 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:09 - 
+INFO [com.bank.util.Menu] March 25 - 08:09 -                          BIG BUCK$ BANK
+INFO [com.bank.util.Menu] March 25 - 08:09 - 
+INFO [com.bank.util.Menu] March 25 - 08:09 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:09 - 
+INFO [com.bank.util.Menu] March 25 - 08:09 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:09 - 
+INFO [com.bank.util.Menu] March 25 - 08:09 - 1 - log in
+INFO [com.bank.util.Menu] March 25 - 08:09 - 2 - register for customer account
+INFO [com.bank.util.Menu] March 25 - 08:09 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:09 - 
+INFO [com.bank.util.Menu] March 25 - 08:09 - 
+INFO [com.bank.util.Menu] March 25 - 08:09 - enter first name:
+INFO [com.bank.util.Menu] March 25 - 08:09 - enter middle name. if not applicable, press enter:
+INFO [com.bank.util.Menu] March 25 - 08:09 - enter last name:
+INFO [com.bank.util.Menu] March 25 - 08:09 - set your password:
+INFO [com.bank.util.Menu] March 25 - 08:09 - enter street address:
+INFO [com.bank.util.Menu] March 25 - 08:09 - enter city:
+INFO [com.bank.util.Menu] March 25 - 08:09 - enter 2-letter state abbreviation:
+INFO [com.bank.util.Menu] March 25 - 08:09 - enter 5-digit zip code:
+INFO [com.bank.util.Menu] March 25 - 08:09 - enter phone number in ###-###-#### format:
+INFO [com.bank.util.Menu] March 25 - 08:09 - 
+INFO [com.bank.util.Menu] March 25 - 08:09 - registration successful! your customer id is: 1023
+INFO [com.bank.util.Menu] March 25 - 08:09 - 
+INFO [com.bank.util.Menu] March 25 - 08:09 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:09 - 
+INFO [com.bank.util.Menu] March 25 - 08:09 -                          BIG BUCK$ BANK
+INFO [com.bank.util.Menu] March 25 - 08:09 - 
+INFO [com.bank.util.Menu] March 25 - 08:09 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:09 - 
+INFO [com.bank.util.Menu] March 25 - 08:09 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:09 - 
+INFO [com.bank.util.Menu] March 25 - 08:09 - 1 - log in
+INFO [com.bank.util.Menu] March 25 - 08:09 - 2 - register for customer account
+INFO [com.bank.util.Menu] March 25 - 08:09 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:09 - 
+INFO [com.bank.util.Menu] March 25 - 08:09 - 
+INFO [com.bank.util.Menu] March 25 - 08:09 - enter user id:
+INFO [com.bank.util.Menu] March 25 - 08:09 - enter user password:
+INFO [com.bank.util.Menu] March 25 - 08:09 - 
+INFO [com.bank.util.Menu] March 25 - 08:09 - W E L C O M E , March25 Presentation!
+INFO [com.bank.util.Menu] March 25 - 08:09 - 
+INFO [com.bank.util.Menu] March 25 - 08:09 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:09 - 
+INFO [com.bank.util.Menu] March 25 - 08:09 -                        BBB Customer Menu
+INFO [com.bank.util.Menu] March 25 - 08:09 - 
+INFO [com.bank.util.Menu] March 25 - 08:09 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:09 - 
+INFO [com.bank.util.Menu] March 25 - 08:09 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:09 - 
+INFO [com.bank.util.Menu] March 25 - 08:09 - 1 - apply for new bank account
+INFO [com.bank.util.Menu] March 25 - 08:09 - 2 - view account balances
+INFO [com.bank.util.Menu] March 25 - 08:09 - 3 - withdraw or deposit
+INFO [com.bank.util.Menu] March 25 - 08:09 - 4 - manage transfers
+INFO [com.bank.util.Menu] March 25 - 08:09 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:09 - 
+INFO [com.bank.util.Menu] March 25 - 08:10 - 
+INFO [com.bank.util.Menu] March 25 - 08:10 - what kind of account would you like to apply for?
+INFO [com.bank.util.Menu] March 25 - 08:10 - 
+INFO [com.bank.util.Menu] March 25 - 08:10 - 1 - checking
+INFO [com.bank.util.Menu] March 25 - 08:10 - 2 - savings
+INFO [com.bank.util.Menu] March 25 - 08:10 - 
+INFO [com.bank.util.Menu] March 25 - 08:10 - 
+INFO [com.bank.util.Menu] March 25 - 08:10 - would you like to make an initial deposit? (y/n)
+INFO [com.bank.util.Menu] March 25 - 08:10 - how much would you like to deposit?
+INFO [com.bank.util.Menu] March 25 - 08:10 - 
+INFO [com.bank.util.Menu] March 25 - 08:10 - application successful! your account id is: 100036
+INFO [com.bank.util.Menu] March 25 - 08:10 - your bank account is pending review by an employee
+INFO [com.bank.util.Menu] March 25 - 08:10 - 
+INFO [com.bank.util.Menu] March 25 - 08:10 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:10 - 
+INFO [com.bank.util.Menu] March 25 - 08:10 -                        BBB Customer Menu
+INFO [com.bank.util.Menu] March 25 - 08:10 - 
+INFO [com.bank.util.Menu] March 25 - 08:10 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:10 - 
+INFO [com.bank.util.Menu] March 25 - 08:10 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:10 - 
+INFO [com.bank.util.Menu] March 25 - 08:10 - 1 - apply for new bank account
+INFO [com.bank.util.Menu] March 25 - 08:10 - 2 - view account balances
+INFO [com.bank.util.Menu] March 25 - 08:10 - 3 - withdraw or deposit
+INFO [com.bank.util.Menu] March 25 - 08:10 - 4 - manage transfers
+INFO [com.bank.util.Menu] March 25 - 08:10 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:10 - 
+INFO [com.bank.util.Menu] March 25 - 08:10 - 
+INFO [com.bank.util.Menu] March 25 - 08:10 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:10 - 
+INFO [com.bank.util.Menu] March 25 - 08:10 -                          BIG BUCK$ BANK
+INFO [com.bank.util.Menu] March 25 - 08:10 - 
+INFO [com.bank.util.Menu] March 25 - 08:10 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:10 - 
+INFO [com.bank.util.Menu] March 25 - 08:10 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:10 - 
+INFO [com.bank.util.Menu] March 25 - 08:10 - 1 - log in
+INFO [com.bank.util.Menu] March 25 - 08:10 - 2 - register for customer account
+INFO [com.bank.util.Menu] March 25 - 08:10 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:10 - 
+INFO [com.bank.util.Menu] March 25 - 08:10 - 
+INFO [com.bank.util.Menu] March 25 - 08:10 - enter user id:
+INFO [com.bank.util.Menu] March 25 - 08:10 - enter user password:
+INFO [com.bank.util.Menu] March 25 - 08:10 - 
+INFO [com.bank.util.Menu] March 25 - 08:10 - W E L C O M E , Oliver Herbert!
+INFO [com.bank.util.Menu] March 25 - 08:10 - 
+INFO [com.bank.util.Menu] March 25 - 08:10 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:10 - 
+INFO [com.bank.util.Menu] March 25 - 08:10 -                        BBB Employee Menu
+INFO [com.bank.util.Menu] March 25 - 08:10 - 
+INFO [com.bank.util.Menu] March 25 - 08:10 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:10 - 
+INFO [com.bank.util.Menu] March 25 - 08:10 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:10 - 
+INFO [com.bank.util.Menu] March 25 - 08:10 - 1 - view pending customer accounts
+INFO [com.bank.util.Menu] March 25 - 08:10 - 2 - view customer's account
+INFO [com.bank.util.Menu] March 25 - 08:10 - 3 - view transaction logs
+INFO [com.bank.util.Menu] March 25 - 08:10 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:10 - 
+INFO [com.bank.util.Menu] March 25 - 08:10 - 
+INFO [com.bank.util.Menu] March 25 - 08:10 - here are the pending accounts:
+INFO [com.bank.util.Menu] March 25 - 08:10 - 
+INFO [com.bank.util.Menu] March 25 - 08:10 - SAVINGS 100031 (initial balance $0.00) is pending review
+INFO [com.bank.util.Menu] March 25 - 08:10 - CHECKING 100032 (initial balance $0.00) is pending review
+INFO [com.bank.util.Menu] March 25 - 08:10 - CHECKING 100035 (initial balance $300.05) is pending review
+INFO [com.bank.util.Menu] March 25 - 08:10 - CHECKING 100036 (initial balance $400.09) is pending review
+INFO [com.bank.util.Menu] March 25 - 08:10 - 
+INFO [com.bank.util.Menu] March 25 - 08:10 - enter account id to approve or reject:
+INFO [com.bank.util.Menu] March 25 - 08:10 - CHECKING 100035 (initial balance $300.05) is pending review
+INFO [com.bank.util.Menu] March 25 - 08:10 - 
+INFO [com.bank.util.Menu] March 25 - 08:10 - would you like to approve this account? (y/n)
+INFO [com.bank.util.Menu] March 25 - 08:10 - 
+INFO [com.bank.util.Menu] March 25 - 08:10 - 
+INFO [com.bank.util.Menu] March 25 - 08:10 - CHECKING 100035: $300.05 has been approved
+INFO [com.bank.util.Menu] March 25 - 08:10 - 
+INFO [com.bank.util.Menu] March 25 - 08:10 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:10 - 
+INFO [com.bank.util.Menu] March 25 - 08:10 -                        BBB Employee Menu
+INFO [com.bank.util.Menu] March 25 - 08:10 - 
+INFO [com.bank.util.Menu] March 25 - 08:10 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:10 - 
+INFO [com.bank.util.Menu] March 25 - 08:10 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:10 - 
+INFO [com.bank.util.Menu] March 25 - 08:10 - 1 - view pending customer accounts
+INFO [com.bank.util.Menu] March 25 - 08:10 - 2 - view customer's account
+INFO [com.bank.util.Menu] March 25 - 08:10 - 3 - view transaction logs
+INFO [com.bank.util.Menu] March 25 - 08:10 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:10 - 
+INFO [com.bank.util.Menu] March 25 - 08:10 - 
+INFO [com.bank.util.Menu] March 25 - 08:10 - enter customer id:
+INFO [com.bank.util.Menu] March 25 - 08:10 - 
+INFO [com.bank.util.Menu] March 25 - 08:11 - 
+ERROR [com.bank.util.Menu] March 25 - 08:11 - id does not match any valid accounts
+INFO [com.bank.util.Menu] March 25 - 08:11 - 
+INFO [com.bank.util.Menu] March 25 - 08:11 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:11 - 
+INFO [com.bank.util.Menu] March 25 - 08:11 -                        BBB Employee Menu
+INFO [com.bank.util.Menu] March 25 - 08:11 - 
+INFO [com.bank.util.Menu] March 25 - 08:11 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:11 - 
+INFO [com.bank.util.Menu] March 25 - 08:11 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:11 - 
+INFO [com.bank.util.Menu] March 25 - 08:11 - 1 - view pending customer accounts
+INFO [com.bank.util.Menu] March 25 - 08:11 - 2 - view customer's account
+INFO [com.bank.util.Menu] March 25 - 08:11 - 3 - view transaction logs
+INFO [com.bank.util.Menu] March 25 - 08:11 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:11 - 
+INFO [com.bank.util.Menu] March 25 - 08:11 - 
+INFO [com.bank.util.Menu] March 25 - 08:11 - enter customer id:
+INFO [com.bank.util.Menu] March 25 - 08:11 - 
+INFO [com.bank.util.Menu] March 25 - 08:11 - 
+INFO [com.bank.util.Menu] March 25 - 08:11 - 100004
+INFO [com.bank.util.Menu] March 25 - 08:11 - 100005
+INFO [com.bank.util.Menu] March 25 - 08:11 - 
+INFO [com.bank.util.Menu] March 25 - 08:11 - enter account id:
+INFO [com.bank.util.Menu] March 25 - 08:11 - 
+INFO [com.bank.util.Menu] March 25 - 08:11 - 
+INFO [com.bank.util.Menu] March 25 - 08:11 - CHECKING 100004: $3204.20
+INFO [com.bank.util.Menu] March 25 - 08:11 - 
+INFO [com.bank.util.Menu] March 25 - 08:11 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:11 - 
+INFO [com.bank.util.Menu] March 25 - 08:11 -                        BBB Employee Menu
+INFO [com.bank.util.Menu] March 25 - 08:11 - 
+INFO [com.bank.util.Menu] March 25 - 08:11 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:11 - 
+INFO [com.bank.util.Menu] March 25 - 08:11 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:11 - 
+INFO [com.bank.util.Menu] March 25 - 08:11 - 1 - view pending customer accounts
+INFO [com.bank.util.Menu] March 25 - 08:11 - 2 - view customer's account
+INFO [com.bank.util.Menu] March 25 - 08:11 - 3 - view transaction logs
+INFO [com.bank.util.Menu] March 25 - 08:11 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:11 - 
+INFO [com.bank.util.Menu] March 25 - 08:11 - 
+INFO [com.bank.util.Menu] March 25 - 08:11 - full transaction log:
+INFO [com.bank.util.Menu] March 25 - 08:11 - 
+INFO [com.bank.util.Menu] March 25 - 08:11 - [2021-03-22 17:42:52.769] withdrawal          10000001 from acc 100020 of $960.09
+INFO [com.bank.util.Menu] March 25 - 08:11 - [2021-03-22 17:45:51.811] deposit             10000002 to   acc 100027 of $510.10
+INFO [com.bank.util.Menu] March 25 - 08:11 - [2021-03-22 18:00:59.378] withdrawal          10000003 from acc 100028 of $200.00
+INFO [com.bank.util.Menu] March 25 - 08:11 - [2021-03-22 18:03:11.221] withdrawal          10000004 from acc 100028 of $20.00
+INFO [com.bank.util.Menu] March 25 - 08:11 - [2021-03-23 09:02:21.412] deposit             10000005 to   acc 100025 of $99.09
+INFO [com.bank.util.Menu] March 25 - 08:11 - [2021-03-23 09:02:34.029] withdrawal          10000006 from acc 100025 of $42.03
+INFO [com.bank.util.Menu] March 25 - 08:11 - [2021-03-23 14:29:15.252] withdrawal          10000007 from acc 100025 of $20.00
+INFO [com.bank.util.Menu] March 25 - 08:11 - [2021-03-24 09:02:29.343] withdrawal          10000008 from acc 100015 of $20.99
+INFO [com.bank.util.Menu] March 25 - 08:11 - [2021-03-24 09:02:45.999] deposit             10000009 to   acc 100015 of $100.01
+INFO [com.bank.util.Menu] March 25 - 08:11 - [2021-03-24 09:07:37.438] approved transfer   10000011 from acc 100034 to acc 100010 of $25.39
+INFO [com.bank.util.Menu] March 25 - 08:11 - [2021-03-25 08:06:12.611] deposit             10000012 to   acc 100010 of $200.00
+INFO [com.bank.util.Menu] March 25 - 08:11 - [2021-03-25 08:06:33.225] withdrawal          10000013 from acc 100010 of $44.13
+INFO [com.bank.util.Menu] March 25 - 08:11 - [2021-03-25 08:07:24.748] approved transfer   10000014 from acc 100022 to acc 100011 of $2,000.05
+INFO [com.bank.util.Menu] March 25 - 08:11 - 
+INFO [com.bank.util.Menu] March 25 - 08:11 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:11 - 
+INFO [com.bank.util.Menu] March 25 - 08:11 -                        BBB Employee Menu
+INFO [com.bank.util.Menu] March 25 - 08:11 - 
+INFO [com.bank.util.Menu] March 25 - 08:11 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:11 - 
+INFO [com.bank.util.Menu] March 25 - 08:11 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:11 - 
+INFO [com.bank.util.Menu] March 25 - 08:11 - 1 - view pending customer accounts
+INFO [com.bank.util.Menu] March 25 - 08:11 - 2 - view customer's account
+INFO [com.bank.util.Menu] March 25 - 08:11 - 3 - view transaction logs
+INFO [com.bank.util.Menu] March 25 - 08:11 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:11 - 
+INFO [com.bank.util.Menu] March 25 - 08:11 - 
+INFO [com.bank.util.Menu] March 25 - 08:11 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:11 - 
+INFO [com.bank.util.Menu] March 25 - 08:11 -                          BIG BUCK$ BANK
+INFO [com.bank.util.Menu] March 25 - 08:11 - 
+INFO [com.bank.util.Menu] March 25 - 08:11 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:11 - 
+INFO [com.bank.util.Menu] March 25 - 08:11 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:11 - 
+INFO [com.bank.util.Menu] March 25 - 08:11 - 1 - log in
+INFO [com.bank.util.Menu] March 25 - 08:11 - 2 - register for customer account
+INFO [com.bank.util.Menu] March 25 - 08:11 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:11 - 
+INFO [com.bank.util.Menu] March 25 - 08:12 - 
+INFO [com.bank.util.Menu] March 25 - 08:12 - enter user id:
+INFO [com.bank.util.Menu] March 25 - 08:12 - enter user password:
+INFO [com.bank.util.Menu] March 25 - 08:12 - 
+INFO [com.bank.util.Menu] March 25 - 08:12 - W E L C O M E , Israel Eason!
+INFO [com.bank.util.Menu] March 25 - 08:12 - 
+INFO [com.bank.util.Menu] March 25 - 08:12 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:12 - 
+INFO [com.bank.util.Menu] March 25 - 08:12 -                        BBB Customer Menu
+INFO [com.bank.util.Menu] March 25 - 08:12 - 
+INFO [com.bank.util.Menu] March 25 - 08:12 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:12 - 
+INFO [com.bank.util.Menu] March 25 - 08:12 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:12 - 
+INFO [com.bank.util.Menu] March 25 - 08:12 - 1 - apply for new bank account
+INFO [com.bank.util.Menu] March 25 - 08:12 - 2 - view account balances
+INFO [com.bank.util.Menu] March 25 - 08:12 - 3 - withdraw or deposit
+INFO [com.bank.util.Menu] March 25 - 08:12 - 4 - manage transfers
+INFO [com.bank.util.Menu] March 25 - 08:12 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:12 - 
+INFO [com.bank.util.Menu] March 25 - 08:12 - 
+INFO [com.bank.util.Menu] March 25 - 08:12 - would you like to post or approve a transfer?
+INFO [com.bank.util.Menu] March 25 - 08:12 - 
+INFO [com.bank.util.Menu] March 25 - 08:12 - 1 - post
+INFO [com.bank.util.Menu] March 25 - 08:12 - 2 - approve
+INFO [com.bank.util.Menu] March 25 - 08:12 - 
+INFO [com.bank.util.Menu] March 25 - 08:12 - 
+INFO [com.bank.util.Menu] March 25 - 08:12 - which account would you like to transfer from?
+INFO [com.bank.util.Menu] March 25 - 08:12 - 
+INFO [com.bank.util.Menu] March 25 - 08:12 - 100015
+INFO [com.bank.util.Menu] March 25 - 08:12 - 100034
+INFO [com.bank.util.Menu] March 25 - 08:12 - 
+INFO [com.bank.util.Menu] March 25 - 08:12 - 
+INFO [com.bank.util.Menu] March 25 - 08:12 - SAVINGS 100015: $4212.58
+INFO [com.bank.util.Menu] March 25 - 08:12 - 
+INFO [com.bank.util.Menu] March 25 - 08:12 - enter the account number you would like to transfer to:
+INFO [com.bank.util.Menu] March 25 - 08:12 - how much would you like to transfer?
+INFO [com.bank.util.Menu] March 25 - 08:12 - 
+INFO [com.bank.util.Menu] March 25 - 08:12 - new balance for SAVINGS 100015: $100.00
+INFO [com.bank.util.Menu] March 25 - 08:12 - 
+INFO [com.bank.util.Menu] March 25 - 08:12 - [Thu Mar 25 08:12:50 CDT 2021] pending transfer 0 from acc 100015 to acc 100029 of $4,112.58
+INFO [com.bank.util.Menu] March 25 - 08:12 - 
+INFO [com.bank.util.Menu] March 25 - 08:12 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:12 - 
+INFO [com.bank.util.Menu] March 25 - 08:12 -                        BBB Customer Menu
+INFO [com.bank.util.Menu] March 25 - 08:12 - 
+INFO [com.bank.util.Menu] March 25 - 08:12 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:12 - 
+INFO [com.bank.util.Menu] March 25 - 08:12 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:12 - 
+INFO [com.bank.util.Menu] March 25 - 08:12 - 1 - apply for new bank account
+INFO [com.bank.util.Menu] March 25 - 08:12 - 2 - view account balances
+INFO [com.bank.util.Menu] March 25 - 08:12 - 3 - withdraw or deposit
+INFO [com.bank.util.Menu] March 25 - 08:12 - 4 - manage transfers
+INFO [com.bank.util.Menu] March 25 - 08:12 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:12 - 
+INFO [com.bank.util.Menu] March 25 - 08:13 - 
+INFO [com.bank.util.Menu] March 25 - 08:13 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:13 - 
+INFO [com.bank.util.Menu] March 25 - 08:13 -                          BIG BUCK$ BANK
+INFO [com.bank.util.Menu] March 25 - 08:13 - 
+INFO [com.bank.util.Menu] March 25 - 08:13 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:13 - 
+INFO [com.bank.util.Menu] March 25 - 08:13 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:13 - 
+INFO [com.bank.util.Menu] March 25 - 08:13 - 1 - log in
+INFO [com.bank.util.Menu] March 25 - 08:13 - 2 - register for customer account
+INFO [com.bank.util.Menu] March 25 - 08:13 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:13 - 
+INFO [com.bank.util.Menu] March 25 - 08:13 - 
+INFO [com.bank.util.Menu] March 25 - 08:13 - enter user id:
+INFO [com.bank.util.Menu] March 25 - 08:13 - enter user password:
+INFO [com.bank.util.Menu] March 25 - 08:13 - 
+INFO [com.bank.util.Menu] March 25 - 08:13 - W E L C O M E , Raven Hyde!
+INFO [com.bank.util.Menu] March 25 - 08:13 - 
+INFO [com.bank.util.Menu] March 25 - 08:13 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:13 - 
+INFO [com.bank.util.Menu] March 25 - 08:13 -                        BBB Customer Menu
+INFO [com.bank.util.Menu] March 25 - 08:13 - 
+INFO [com.bank.util.Menu] March 25 - 08:13 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:13 - 
+INFO [com.bank.util.Menu] March 25 - 08:13 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:13 - 
+INFO [com.bank.util.Menu] March 25 - 08:13 - 1 - apply for new bank account
+INFO [com.bank.util.Menu] March 25 - 08:13 - 2 - view account balances
+INFO [com.bank.util.Menu] March 25 - 08:13 - 3 - withdraw or deposit
+INFO [com.bank.util.Menu] March 25 - 08:13 - 4 - manage transfers
+INFO [com.bank.util.Menu] March 25 - 08:13 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:13 - 
+INFO [com.bank.util.Menu] March 25 - 08:13 - 
+INFO [com.bank.util.Menu] March 25 - 08:13 - would you like to post or approve a transfer?
+INFO [com.bank.util.Menu] March 25 - 08:13 - 
+INFO [com.bank.util.Menu] March 25 - 08:13 - 1 - post
+INFO [com.bank.util.Menu] March 25 - 08:13 - 2 - approve
+INFO [com.bank.util.Menu] March 25 - 08:13 - 
+INFO [com.bank.util.Menu] March 25 - 08:13 - 
+INFO [com.bank.util.Menu] March 25 - 08:13 - here are your pending transfers:
+INFO [com.bank.util.Menu] March 25 - 08:13 - 
+INFO [com.bank.util.Menu] March 25 - 08:13 - [2021-03-25 08:12:50.703] pending transfer    10000015 from acc 100015 to acc 100029 of $4,112.58
+INFO [com.bank.util.Menu] March 25 - 08:13 - 
+INFO [com.bank.util.Menu] March 25 - 08:13 - enter transfer id to approve or reject:
+INFO [com.bank.util.Menu] March 25 - 08:14 - [2021-03-25 08:12:50.703] pending transfer 10000015 from acc 100015 to acc 100029 of $4,112.58
+INFO [com.bank.util.Menu] March 25 - 08:14 - 
+INFO [com.bank.util.Menu] March 25 - 08:14 - would you like to approve this transfer? (y/n)
+INFO [com.bank.util.Menu] March 25 - 08:14 - 
+INFO [com.bank.util.Menu] March 25 - 08:14 - 
+INFO [com.bank.util.Menu] March 25 - 08:14 - SAVINGS 100015: $4212.58
+INFO [com.bank.util.Menu] March 25 - 08:14 - 
+INFO [com.bank.util.Menu] March 25 - 08:14 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:14 - 
+INFO [com.bank.util.Menu] March 25 - 08:14 -                        BBB Customer Menu
+INFO [com.bank.util.Menu] March 25 - 08:14 - 
+INFO [com.bank.util.Menu] March 25 - 08:14 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:14 - 
+INFO [com.bank.util.Menu] March 25 - 08:14 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:14 - 
+INFO [com.bank.util.Menu] March 25 - 08:14 - 1 - apply for new bank account
+INFO [com.bank.util.Menu] March 25 - 08:14 - 2 - view account balances
+INFO [com.bank.util.Menu] March 25 - 08:14 - 3 - withdraw or deposit
+INFO [com.bank.util.Menu] March 25 - 08:14 - 4 - manage transfers
+INFO [com.bank.util.Menu] March 25 - 08:14 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:14 - 
+INFO [com.bank.util.Menu] March 25 - 08:14 - 
+INFO [com.bank.util.Menu] March 25 - 08:14 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:14 - 
+INFO [com.bank.util.Menu] March 25 - 08:14 -                          BIG BUCK$ BANK
+INFO [com.bank.util.Menu] March 25 - 08:14 - 
+INFO [com.bank.util.Menu] March 25 - 08:14 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:14 - 
+INFO [com.bank.util.Menu] March 25 - 08:14 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:14 - 
+INFO [com.bank.util.Menu] March 25 - 08:14 - 1 - log in
+INFO [com.bank.util.Menu] March 25 - 08:14 - 2 - register for customer account
+INFO [com.bank.util.Menu] March 25 - 08:14 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:14 - 
+INFO [com.bank.util.Menu] March 25 - 08:14 - 
+INFO [com.bank.util.Menu] March 25 - 08:14 - ----------------------------------------------------------------
+INFO [com.bank.util.Menu] March 25 - 08:14 - 
+INFO [com.bank.util.Menu] March 25 - 08:14 - thank you for banking with BIG BUCK$ BANK!!
+INFO [com.bank.util.Menu] March 25 - 08:14 - 
+INFO [com.bank.util.Menu] March 25 - 08:14 - << BBB Application v1.0 >>
+INFO [com.bank.util.Menu] March 25 - 08:14 - 
+INFO [com.bank.util.Menu] March 25 - 08:23 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:23 - 
+INFO [com.bank.util.Menu] March 25 - 08:23 -                          BIG BUCK$ BANK
+INFO [com.bank.util.Menu] March 25 - 08:23 - 
+INFO [com.bank.util.Menu] March 25 - 08:23 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:23 - 
+INFO [com.bank.util.Menu] March 25 - 08:23 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:23 - 
+INFO [com.bank.util.Menu] March 25 - 08:23 - 1 - log in
+INFO [com.bank.util.Menu] March 25 - 08:23 - 2 - register for customer account
+INFO [com.bank.util.Menu] March 25 - 08:23 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:23 - 
+INFO [com.bank.util.Menu] March 25 - 08:23 - 
+INFO [com.bank.util.Menu] March 25 - 08:23 - enter user id:
+INFO [com.bank.util.Menu] March 25 - 08:23 - enter user password:
+INFO [com.bank.util.Menu] March 25 - 08:24 - 
+ERROR [com.bank.util.Menu] March 25 - 08:24 - id/password not found
+INFO [com.bank.util.Menu] March 25 - 08:24 - 
+INFO [com.bank.util.Menu] March 25 - 08:24 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:24 - 
+INFO [com.bank.util.Menu] March 25 - 08:24 -                          BIG BUCK$ BANK
+INFO [com.bank.util.Menu] March 25 - 08:24 - 
+INFO [com.bank.util.Menu] March 25 - 08:24 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:24 - 
+INFO [com.bank.util.Menu] March 25 - 08:24 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:24 - 
+INFO [com.bank.util.Menu] March 25 - 08:24 - 1 - log in
+INFO [com.bank.util.Menu] March 25 - 08:24 - 2 - register for customer account
+INFO [com.bank.util.Menu] March 25 - 08:24 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:24 - 
+INFO [com.bank.util.Menu] March 25 - 08:24 - 
+INFO [com.bank.util.Menu] March 25 - 08:24 - enter user id:
+INFO [com.bank.util.Menu] March 25 - 08:24 - enter user password:
+INFO [com.bank.util.Menu] March 25 - 08:24 - 
+INFO [com.bank.util.Menu] March 25 - 08:24 - W E L C O M E , Truman Ellington!
+INFO [com.bank.util.Menu] March 25 - 08:24 - 
+INFO [com.bank.util.Menu] March 25 - 08:24 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:24 - 
+INFO [com.bank.util.Menu] March 25 - 08:24 -                        BBB Customer Menu
+INFO [com.bank.util.Menu] March 25 - 08:24 - 
+INFO [com.bank.util.Menu] March 25 - 08:24 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:24 - 
+INFO [com.bank.util.Menu] March 25 - 08:24 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:24 - 
+INFO [com.bank.util.Menu] March 25 - 08:24 - 1 - apply for new bank account
+INFO [com.bank.util.Menu] March 25 - 08:24 - 2 - view account balances
+INFO [com.bank.util.Menu] March 25 - 08:24 - 3 - withdraw or deposit
+INFO [com.bank.util.Menu] March 25 - 08:24 - 4 - manage transfers
+INFO [com.bank.util.Menu] March 25 - 08:24 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:24 - 
+INFO [com.bank.util.Menu] March 25 - 08:24 - 
+INFO [com.bank.util.Menu] March 25 - 08:24 - would you like to post or approve a transfer?
+INFO [com.bank.util.Menu] March 25 - 08:24 - 
+INFO [com.bank.util.Menu] March 25 - 08:24 - 1 - post
+INFO [com.bank.util.Menu] March 25 - 08:24 - 2 - approve
+INFO [com.bank.util.Menu] March 25 - 08:24 - 
+INFO [com.bank.util.Menu] March 25 - 08:24 - 
+INFO [com.bank.util.Menu] March 25 - 08:24 - which account would you like to transfer from?
+INFO [com.bank.util.Menu] March 25 - 08:24 - 
+INFO [com.bank.util.Menu] March 25 - 08:24 - 100025
+INFO [com.bank.util.Menu] March 25 - 08:24 - 100030
+INFO [com.bank.util.Menu] March 25 - 08:24 - 
+INFO [com.bank.util.Menu] March 25 - 08:24 - 
+INFO [com.bank.util.Menu] March 25 - 08:24 - SAVINGS 100025: $358.14
+INFO [com.bank.util.Menu] March 25 - 08:24 - 
+INFO [com.bank.util.Menu] March 25 - 08:24 - enter the account number you would like to transfer to:
+INFO [com.bank.util.Menu] March 25 - 08:24 - how much would you like to transfer?
+INFO [com.bank.util.Menu] March 25 - 08:24 - 
+INFO [com.bank.util.Menu] March 25 - 08:24 - new balance for SAVINGS 100025: $325.91
+INFO [com.bank.util.Menu] March 25 - 08:24 - 
+INFO [com.bank.util.Menu] March 25 - 08:24 - [Thu Mar 25 08:24:20 CDT 2021] pending transfer 0 from acc 100025 to acc 100030 of $32.23
+INFO [com.bank.util.Menu] March 25 - 08:24 - 
+INFO [com.bank.util.Menu] March 25 - 08:24 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:24 - 
+INFO [com.bank.util.Menu] March 25 - 08:24 -                        BBB Customer Menu
+INFO [com.bank.util.Menu] March 25 - 08:24 - 
+INFO [com.bank.util.Menu] March 25 - 08:24 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:24 - 
+INFO [com.bank.util.Menu] March 25 - 08:24 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:24 - 
+INFO [com.bank.util.Menu] March 25 - 08:24 - 1 - apply for new bank account
+INFO [com.bank.util.Menu] March 25 - 08:24 - 2 - view account balances
+INFO [com.bank.util.Menu] March 25 - 08:24 - 3 - withdraw or deposit
+INFO [com.bank.util.Menu] March 25 - 08:24 - 4 - manage transfers
+INFO [com.bank.util.Menu] March 25 - 08:24 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:24 - 
+INFO [com.bank.util.Menu] March 25 - 08:24 - 
+INFO [com.bank.util.Menu] March 25 - 08:24 - would you like to post or approve a transfer?
+INFO [com.bank.util.Menu] March 25 - 08:24 - 
+INFO [com.bank.util.Menu] March 25 - 08:24 - 1 - post
+INFO [com.bank.util.Menu] March 25 - 08:24 - 2 - approve
+INFO [com.bank.util.Menu] March 25 - 08:24 - 
+INFO [com.bank.util.Menu] March 25 - 08:24 - 
+INFO [com.bank.util.Menu] March 25 - 08:24 - here are your pending transfers:
+INFO [com.bank.util.Menu] March 25 - 08:24 - 
+INFO [com.bank.util.Menu] March 25 - 08:24 - [2021-03-25 08:24:20.353] pending transfer    10000016 from acc 100025 to acc 100030 of $32.23
+INFO [com.bank.util.Menu] March 25 - 08:24 - 
+INFO [com.bank.util.Menu] March 25 - 08:24 - enter transfer id to approve or reject:
+ERROR [com.bank.util.Menu] March 25 - 08:24 - id does not match any transfers
+INFO [com.bank.util.Menu] March 25 - 08:24 - 
+INFO [com.bank.util.Menu] March 25 - 08:24 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:24 - 
+INFO [com.bank.util.Menu] March 25 - 08:24 -                        BBB Customer Menu
+INFO [com.bank.util.Menu] March 25 - 08:24 - 
+INFO [com.bank.util.Menu] March 25 - 08:24 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:24 - 
+INFO [com.bank.util.Menu] March 25 - 08:24 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:24 - 
+INFO [com.bank.util.Menu] March 25 - 08:24 - 1 - apply for new bank account
+INFO [com.bank.util.Menu] March 25 - 08:24 - 2 - view account balances
+INFO [com.bank.util.Menu] March 25 - 08:24 - 3 - withdraw or deposit
+INFO [com.bank.util.Menu] March 25 - 08:24 - 4 - manage transfers
+INFO [com.bank.util.Menu] March 25 - 08:24 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:24 - 
+INFO [com.bank.util.Menu] March 25 - 08:24 - 
+INFO [com.bank.util.Menu] March 25 - 08:24 - would you like to post or approve a transfer?
+INFO [com.bank.util.Menu] March 25 - 08:24 - 
+INFO [com.bank.util.Menu] March 25 - 08:24 - 1 - post
+INFO [com.bank.util.Menu] March 25 - 08:24 - 2 - approve
+INFO [com.bank.util.Menu] March 25 - 08:24 - 
+INFO [com.bank.util.Menu] March 25 - 08:24 - 
+INFO [com.bank.util.Menu] March 25 - 08:24 - here are your pending transfers:
+INFO [com.bank.util.Menu] March 25 - 08:24 - 
+INFO [com.bank.util.Menu] March 25 - 08:24 - [2021-03-25 08:24:20.353] pending transfer    10000016 from acc 100025 to acc 100030 of $32.23
+INFO [com.bank.util.Menu] March 25 - 08:24 - 
+INFO [com.bank.util.Menu] March 25 - 08:24 - enter transfer id to approve or reject:
+INFO [com.bank.util.Menu] March 25 - 08:24 - pending transfer    1001 from null to acc 100030 of $32.23
+INFO [com.bank.util.Menu] March 25 - 08:24 - 
+INFO [com.bank.util.Menu] March 25 - 08:24 - would you like to approve this transfer? (y/n)
+INFO [com.bank.util.Menu] March 25 - 08:24 - 
+INFO [com.bank.util.Menu] March 25 - 08:24 - 
+INFO [com.bank.util.Menu] March 25 - 08:24 - CHECKING 100030: $2032.23
+INFO [com.bank.util.Menu] March 25 - 08:24 - 
+INFO [com.bank.util.Menu] March 25 - 08:24 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:24 - 
+INFO [com.bank.util.Menu] March 25 - 08:24 -                        BBB Customer Menu
+INFO [com.bank.util.Menu] March 25 - 08:24 - 
+INFO [com.bank.util.Menu] March 25 - 08:24 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:24 - 
+INFO [com.bank.util.Menu] March 25 - 08:24 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:24 - 
+INFO [com.bank.util.Menu] March 25 - 08:24 - 1 - apply for new bank account
+INFO [com.bank.util.Menu] March 25 - 08:24 - 2 - view account balances
+INFO [com.bank.util.Menu] March 25 - 08:24 - 3 - withdraw or deposit
+INFO [com.bank.util.Menu] March 25 - 08:24 - 4 - manage transfers
+INFO [com.bank.util.Menu] March 25 - 08:24 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:24 - 
+INFO [com.bank.util.Menu] March 25 - 08:24 - 
+INFO [com.bank.util.Menu] March 25 - 08:24 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:24 - 
+INFO [com.bank.util.Menu] March 25 - 08:24 -                          BIG BUCK$ BANK
+INFO [com.bank.util.Menu] March 25 - 08:24 - 
+INFO [com.bank.util.Menu] March 25 - 08:24 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:24 - 
+INFO [com.bank.util.Menu] March 25 - 08:24 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:24 - 
+INFO [com.bank.util.Menu] March 25 - 08:24 - 1 - log in
+INFO [com.bank.util.Menu] March 25 - 08:24 - 2 - register for customer account
+INFO [com.bank.util.Menu] March 25 - 08:24 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:24 - 
+INFO [com.bank.util.Menu] March 25 - 08:24 - 
+INFO [com.bank.util.Menu] March 25 - 08:24 - ----------------------------------------------------------------
+INFO [com.bank.util.Menu] March 25 - 08:24 - 
+INFO [com.bank.util.Menu] March 25 - 08:24 - thank you for banking with BIG BUCK$ BANK!!
+INFO [com.bank.util.Menu] March 25 - 08:24 - 
+INFO [com.bank.util.Menu] March 25 - 08:24 - << BBB Application v1.0 >>
+INFO [com.bank.util.Menu] March 25 - 08:24 - 
+INFO [com.bank.util.Menu] March 25 - 08:28 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:28 - 
+INFO [com.bank.util.Menu] March 25 - 08:28 -                          BIG BUCK$ BANK
+INFO [com.bank.util.Menu] March 25 - 08:28 - 
+INFO [com.bank.util.Menu] March 25 - 08:28 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:28 - 
+INFO [com.bank.util.Menu] March 25 - 08:28 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:28 - 
+INFO [com.bank.util.Menu] March 25 - 08:28 - 1 - log in
+INFO [com.bank.util.Menu] March 25 - 08:28 - 2 - register for customer account
+INFO [com.bank.util.Menu] March 25 - 08:28 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:28 - 
+INFO [com.bank.util.Menu] March 25 - 08:28 - 
+INFO [com.bank.util.Menu] March 25 - 08:28 - enter user id:
+INFO [com.bank.util.Menu] March 25 - 08:29 - enter user password:
+INFO [com.bank.util.Menu] March 25 - 08:29 - 
+INFO [com.bank.util.Menu] March 25 - 08:29 - W E L C O M E , Truman Ellington!
+INFO [com.bank.util.Menu] March 25 - 08:29 - 
+INFO [com.bank.util.Menu] March 25 - 08:29 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:29 - 
+INFO [com.bank.util.Menu] March 25 - 08:29 -                        BBB Customer Menu
+INFO [com.bank.util.Menu] March 25 - 08:29 - 
+INFO [com.bank.util.Menu] March 25 - 08:29 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:29 - 
+INFO [com.bank.util.Menu] March 25 - 08:29 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:29 - 
+INFO [com.bank.util.Menu] March 25 - 08:29 - 1 - apply for new bank account
+INFO [com.bank.util.Menu] March 25 - 08:29 - 2 - view account balances
+INFO [com.bank.util.Menu] March 25 - 08:29 - 3 - withdraw or deposit
+INFO [com.bank.util.Menu] March 25 - 08:29 - 4 - manage transfers
+INFO [com.bank.util.Menu] March 25 - 08:29 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:29 - 
+INFO [com.bank.util.Menu] March 25 - 08:29 - 
+INFO [com.bank.util.Menu] March 25 - 08:29 - would you like to post or approve a transfer?
+INFO [com.bank.util.Menu] March 25 - 08:29 - 
+INFO [com.bank.util.Menu] March 25 - 08:29 - 1 - post
+INFO [com.bank.util.Menu] March 25 - 08:29 - 2 - approve
+INFO [com.bank.util.Menu] March 25 - 08:29 - 
+INFO [com.bank.util.Menu] March 25 - 08:29 - 
+INFO [com.bank.util.Menu] March 25 - 08:29 - you have no pending transfers
+INFO [com.bank.util.Menu] March 25 - 08:29 - 
+INFO [com.bank.util.Menu] March 25 - 08:29 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:29 - 
+INFO [com.bank.util.Menu] March 25 - 08:29 -                        BBB Customer Menu
+INFO [com.bank.util.Menu] March 25 - 08:29 - 
+INFO [com.bank.util.Menu] March 25 - 08:29 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:29 - 
+INFO [com.bank.util.Menu] March 25 - 08:29 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:29 - 
+INFO [com.bank.util.Menu] March 25 - 08:29 - 1 - apply for new bank account
+INFO [com.bank.util.Menu] March 25 - 08:29 - 2 - view account balances
+INFO [com.bank.util.Menu] March 25 - 08:29 - 3 - withdraw or deposit
+INFO [com.bank.util.Menu] March 25 - 08:29 - 4 - manage transfers
+INFO [com.bank.util.Menu] March 25 - 08:29 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:29 - 
+INFO [com.bank.util.Menu] March 25 - 08:29 - 
+INFO [com.bank.util.Menu] March 25 - 08:29 - would you like to post or approve a transfer?
+INFO [com.bank.util.Menu] March 25 - 08:29 - 
+INFO [com.bank.util.Menu] March 25 - 08:29 - 1 - post
+INFO [com.bank.util.Menu] March 25 - 08:29 - 2 - approve
+INFO [com.bank.util.Menu] March 25 - 08:29 - 
+INFO [com.bank.util.Menu] March 25 - 08:29 - 
+INFO [com.bank.util.Menu] March 25 - 08:29 - which account would you like to transfer from?
+INFO [com.bank.util.Menu] March 25 - 08:29 - 
+INFO [com.bank.util.Menu] March 25 - 08:29 - 100025
+INFO [com.bank.util.Menu] March 25 - 08:29 - 100030
+INFO [com.bank.util.Menu] March 25 - 08:29 - 
+INFO [com.bank.util.Menu] March 25 - 08:29 - 
+INFO [com.bank.util.Menu] March 25 - 08:29 - SAVINGS 100025: $325.91
+INFO [com.bank.util.Menu] March 25 - 08:29 - 
+INFO [com.bank.util.Menu] March 25 - 08:29 - enter the account number you would like to transfer to:
+INFO [com.bank.util.Menu] March 25 - 08:29 - how much would you like to transfer?
+INFO [com.bank.util.Menu] March 25 - 08:29 - 
+INFO [com.bank.util.Menu] March 25 - 08:29 - new balance for SAVINGS 100025: $323.00
+INFO [com.bank.util.Menu] March 25 - 08:29 - 
+INFO [com.bank.util.Menu] March 25 - 08:29 - [Thu Mar 25 08:29:19 CDT 2021] pending transfer 0 from acc 100025 to acc 100030 of $2.91
+INFO [com.bank.util.Menu] March 25 - 08:29 - 
+INFO [com.bank.util.Menu] March 25 - 08:29 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:29 - 
+INFO [com.bank.util.Menu] March 25 - 08:29 -                        BBB Customer Menu
+INFO [com.bank.util.Menu] March 25 - 08:29 - 
+INFO [com.bank.util.Menu] March 25 - 08:29 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:29 - 
+INFO [com.bank.util.Menu] March 25 - 08:29 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:29 - 
+INFO [com.bank.util.Menu] March 25 - 08:29 - 1 - apply for new bank account
+INFO [com.bank.util.Menu] March 25 - 08:29 - 2 - view account balances
+INFO [com.bank.util.Menu] March 25 - 08:29 - 3 - withdraw or deposit
+INFO [com.bank.util.Menu] March 25 - 08:29 - 4 - manage transfers
+INFO [com.bank.util.Menu] March 25 - 08:29 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:29 - 
+INFO [com.bank.util.Menu] March 25 - 08:29 - 
+INFO [com.bank.util.Menu] March 25 - 08:29 - would you like to post or approve a transfer?
+INFO [com.bank.util.Menu] March 25 - 08:29 - 
+INFO [com.bank.util.Menu] March 25 - 08:29 - 1 - post
+INFO [com.bank.util.Menu] March 25 - 08:29 - 2 - approve
+INFO [com.bank.util.Menu] March 25 - 08:29 - 
+INFO [com.bank.util.Menu] March 25 - 08:29 - 
+INFO [com.bank.util.Menu] March 25 - 08:29 - here are your pending transfers:
+INFO [com.bank.util.Menu] March 25 - 08:29 - 
+INFO [com.bank.util.Menu] March 25 - 08:29 - [2021-03-25 08:29:19.382] pending transfer    10000017 from acc 100025 to acc 100030 of $2.91
+INFO [com.bank.util.Menu] March 25 - 08:29 - 
+INFO [com.bank.util.Menu] March 25 - 08:29 - enter transfer id to approve or reject:
+ERROR [com.bank.util.Menu] March 25 - 08:29 - id does not match any transfers
+INFO [com.bank.util.Menu] March 25 - 08:29 - 
+INFO [com.bank.util.Menu] March 25 - 08:29 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:29 - 
+INFO [com.bank.util.Menu] March 25 - 08:29 -                        BBB Customer Menu
+INFO [com.bank.util.Menu] March 25 - 08:29 - 
+INFO [com.bank.util.Menu] March 25 - 08:29 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:29 - 
+INFO [com.bank.util.Menu] March 25 - 08:29 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:29 - 
+INFO [com.bank.util.Menu] March 25 - 08:29 - 1 - apply for new bank account
+INFO [com.bank.util.Menu] March 25 - 08:29 - 2 - view account balances
+INFO [com.bank.util.Menu] March 25 - 08:29 - 3 - withdraw or deposit
+INFO [com.bank.util.Menu] March 25 - 08:29 - 4 - manage transfers
+INFO [com.bank.util.Menu] March 25 - 08:29 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:29 - 
+INFO [com.bank.util.Menu] March 25 - 08:29 - 
+INFO [com.bank.util.Menu] March 25 - 08:29 - would you like to post or approve a transfer?
+INFO [com.bank.util.Menu] March 25 - 08:29 - 
+INFO [com.bank.util.Menu] March 25 - 08:29 - 1 - post
+INFO [com.bank.util.Menu] March 25 - 08:29 - 2 - approve
+INFO [com.bank.util.Menu] March 25 - 08:29 - 
+INFO [com.bank.util.Menu] March 25 - 08:29 - 
+INFO [com.bank.util.Menu] March 25 - 08:29 - here are your pending transfers:
+INFO [com.bank.util.Menu] March 25 - 08:29 - 
+INFO [com.bank.util.Menu] March 25 - 08:29 - [2021-03-25 08:29:19.382] pending transfer    10000017 from acc 100025 to acc 100030 of $2.91
+INFO [com.bank.util.Menu] March 25 - 08:29 - 
+INFO [com.bank.util.Menu] March 25 - 08:29 - enter transfer id to approve or reject:
+INFO [com.bank.util.Menu] March 25 - 08:29 - pending transfer    1001 from Truman Ellington to acc 100030 of $2.91
+INFO [com.bank.util.Menu] March 25 - 08:29 - 
+INFO [com.bank.util.Menu] March 25 - 08:29 - would you like to approve this transfer? (y/n)
+INFO [com.bank.util.Menu] March 25 - 08:29 - 
+INFO [com.bank.util.Menu] March 25 - 08:30 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:30 - 
+INFO [com.bank.util.Menu] March 25 - 08:30 -                          BIG BUCK$ BANK
+INFO [com.bank.util.Menu] March 25 - 08:30 - 
+INFO [com.bank.util.Menu] March 25 - 08:30 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:30 - 
+INFO [com.bank.util.Menu] March 25 - 08:30 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:30 - 
+INFO [com.bank.util.Menu] March 25 - 08:30 - 1 - log in
+INFO [com.bank.util.Menu] March 25 - 08:30 - 2 - register for customer account
+INFO [com.bank.util.Menu] March 25 - 08:30 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:30 - 
+INFO [com.bank.util.Menu] March 25 - 08:30 - 
+INFO [com.bank.util.Menu] March 25 - 08:30 - enter user id:
+INFO [com.bank.util.Menu] March 25 - 08:30 - enter user password:
+INFO [com.bank.util.Menu] March 25 - 08:30 - 
+INFO [com.bank.util.Menu] March 25 - 08:30 - W E L C O M E , Truman Ellington!
+INFO [com.bank.util.Menu] March 25 - 08:30 - 
+INFO [com.bank.util.Menu] March 25 - 08:30 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:30 - 
+INFO [com.bank.util.Menu] March 25 - 08:30 -                        BBB Customer Menu
+INFO [com.bank.util.Menu] March 25 - 08:30 - 
+INFO [com.bank.util.Menu] March 25 - 08:30 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:30 - 
+INFO [com.bank.util.Menu] March 25 - 08:30 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:30 - 
+INFO [com.bank.util.Menu] March 25 - 08:30 - 1 - apply for new bank account
+INFO [com.bank.util.Menu] March 25 - 08:30 - 2 - view account balances
+INFO [com.bank.util.Menu] March 25 - 08:30 - 3 - withdraw or deposit
+INFO [com.bank.util.Menu] March 25 - 08:30 - 4 - manage transfers
+INFO [com.bank.util.Menu] March 25 - 08:30 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:30 - 
+INFO [com.bank.util.Menu] March 25 - 08:30 - 
+INFO [com.bank.util.Menu] March 25 - 08:30 - would you like to post or approve a transfer?
+INFO [com.bank.util.Menu] March 25 - 08:30 - 
+INFO [com.bank.util.Menu] March 25 - 08:30 - 1 - post
+INFO [com.bank.util.Menu] March 25 - 08:30 - 2 - approve
+INFO [com.bank.util.Menu] March 25 - 08:30 - 
+INFO [com.bank.util.Menu] March 25 - 08:30 - 
+INFO [com.bank.util.Menu] March 25 - 08:30 - which account would you like to transfer from?
+INFO [com.bank.util.Menu] March 25 - 08:30 - 
+INFO [com.bank.util.Menu] March 25 - 08:30 - 100025
+INFO [com.bank.util.Menu] March 25 - 08:30 - 100030
+INFO [com.bank.util.Menu] March 25 - 08:30 - 
+INFO [com.bank.util.Menu] March 25 - 08:30 - 
+INFO [com.bank.util.Menu] March 25 - 08:30 - CHECKING 100030: $2032.23
+INFO [com.bank.util.Menu] March 25 - 08:30 - 
+INFO [com.bank.util.Menu] March 25 - 08:30 - enter the account number you would like to transfer to:
+INFO [com.bank.util.Menu] March 25 - 08:31 - id does not match any valid accounts
+INFO [com.bank.util.Menu] March 25 - 08:31 - 
+INFO [com.bank.util.Menu] March 25 - 08:31 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:31 - 
+INFO [com.bank.util.Menu] March 25 - 08:31 -                        BBB Customer Menu
+INFO [com.bank.util.Menu] March 25 - 08:31 - 
+INFO [com.bank.util.Menu] March 25 - 08:31 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:31 - 
+INFO [com.bank.util.Menu] March 25 - 08:31 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:31 - 
+INFO [com.bank.util.Menu] March 25 - 08:31 - 1 - apply for new bank account
+INFO [com.bank.util.Menu] March 25 - 08:31 - 2 - view account balances
+INFO [com.bank.util.Menu] March 25 - 08:31 - 3 - withdraw or deposit
+INFO [com.bank.util.Menu] March 25 - 08:31 - 4 - manage transfers
+INFO [com.bank.util.Menu] March 25 - 08:31 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:31 - 
+INFO [com.bank.util.Menu] March 25 - 08:31 - 
+INFO [com.bank.util.Menu] March 25 - 08:31 - would you like to post or approve a transfer?
+INFO [com.bank.util.Menu] March 25 - 08:31 - 
+INFO [com.bank.util.Menu] March 25 - 08:31 - 1 - post
+INFO [com.bank.util.Menu] March 25 - 08:31 - 2 - approve
+INFO [com.bank.util.Menu] March 25 - 08:31 - 
+INFO [com.bank.util.Menu] March 25 - 08:31 - 
+INFO [com.bank.util.Menu] March 25 - 08:31 - which account would you like to transfer from?
+INFO [com.bank.util.Menu] March 25 - 08:31 - 
+INFO [com.bank.util.Menu] March 25 - 08:31 - 100025
+INFO [com.bank.util.Menu] March 25 - 08:31 - 100030
+INFO [com.bank.util.Menu] March 25 - 08:31 - 
+INFO [com.bank.util.Menu] March 25 - 08:31 - 
+INFO [com.bank.util.Menu] March 25 - 08:31 - CHECKING 100030: $2032.23
+INFO [com.bank.util.Menu] March 25 - 08:31 - 
+INFO [com.bank.util.Menu] March 25 - 08:31 - enter the account number you would like to transfer to:
+INFO [com.bank.util.Menu] March 25 - 08:31 - how much would you like to transfer?
+INFO [com.bank.util.Menu] March 25 - 08:31 - 
+INFO [com.bank.util.Menu] March 25 - 08:31 - new balance for CHECKING 100030: $2000.00
+INFO [com.bank.util.Menu] March 25 - 08:31 - 
+INFO [com.bank.util.Menu] March 25 - 08:31 - [Thu Mar 25 08:31:10 CDT 2021] pending transfer 0 from acc 100030 to acc 100025 of $32.23
+INFO [com.bank.util.Menu] March 25 - 08:31 - 
+INFO [com.bank.util.Menu] March 25 - 08:31 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:31 - 
+INFO [com.bank.util.Menu] March 25 - 08:31 -                        BBB Customer Menu
+INFO [com.bank.util.Menu] March 25 - 08:31 - 
+INFO [com.bank.util.Menu] March 25 - 08:31 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:31 - 
+INFO [com.bank.util.Menu] March 25 - 08:31 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:31 - 
+INFO [com.bank.util.Menu] March 25 - 08:31 - 1 - apply for new bank account
+INFO [com.bank.util.Menu] March 25 - 08:31 - 2 - view account balances
+INFO [com.bank.util.Menu] March 25 - 08:31 - 3 - withdraw or deposit
+INFO [com.bank.util.Menu] March 25 - 08:31 - 4 - manage transfers
+INFO [com.bank.util.Menu] March 25 - 08:31 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:31 - 
+INFO [com.bank.util.Menu] March 25 - 08:31 - 
+INFO [com.bank.util.Menu] March 25 - 08:31 - would you like to post or approve a transfer?
+INFO [com.bank.util.Menu] March 25 - 08:31 - 
+INFO [com.bank.util.Menu] March 25 - 08:31 - 1 - post
+INFO [com.bank.util.Menu] March 25 - 08:31 - 2 - approve
+INFO [com.bank.util.Menu] March 25 - 08:31 - 
+INFO [com.bank.util.Menu] March 25 - 08:31 - 
+INFO [com.bank.util.Menu] March 25 - 08:31 - here are your pending transfers:
+INFO [com.bank.util.Menu] March 25 - 08:31 - 
+INFO [com.bank.util.Menu] March 25 - 08:31 - [2021-03-25 08:31:10.824] pending transfer    10000018 from acc 100030 to acc 100025 of $32.23
+INFO [com.bank.util.Menu] March 25 - 08:31 - [2021-03-25 08:29:19.382] pending transfer    10000017 from acc 100025 to acc 100030 of $2.91
+INFO [com.bank.util.Menu] March 25 - 08:31 - 
+INFO [com.bank.util.Menu] March 25 - 08:31 - enter transfer id to approve or reject:
+INFO [com.bank.util.Menu] March 25 - 08:31 - pending transfer 10000017 from Truman Ellington to acc 100030 of $2.91
+INFO [com.bank.util.Menu] March 25 - 08:31 - 
+INFO [com.bank.util.Menu] March 25 - 08:31 - would you like to approve this transfer? (y/n)
+INFO [com.bank.util.Menu] March 25 - 08:31 - 
+INFO [com.bank.util.Menu] March 25 - 08:33 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:33 - 
+INFO [com.bank.util.Menu] March 25 - 08:33 -                          BIG BUCK$ BANK
+INFO [com.bank.util.Menu] March 25 - 08:33 - 
+INFO [com.bank.util.Menu] March 25 - 08:33 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:33 - 
+INFO [com.bank.util.Menu] March 25 - 08:33 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:33 - 
+INFO [com.bank.util.Menu] March 25 - 08:33 - 1 - log in
+INFO [com.bank.util.Menu] March 25 - 08:33 - 2 - register for customer account
+INFO [com.bank.util.Menu] March 25 - 08:33 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:33 - 
+INFO [com.bank.util.Menu] March 25 - 08:33 - 
+INFO [com.bank.util.Menu] March 25 - 08:33 - enter user id:
+INFO [com.bank.util.Menu] March 25 - 08:33 - enter user password:
+INFO [com.bank.util.Menu] March 25 - 08:33 - 
+INFO [com.bank.util.Menu] March 25 - 08:33 - W E L C O M E , Truman Ellington!
+INFO [com.bank.util.Menu] March 25 - 08:33 - 
+INFO [com.bank.util.Menu] March 25 - 08:33 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:33 - 
+INFO [com.bank.util.Menu] March 25 - 08:33 -                        BBB Customer Menu
+INFO [com.bank.util.Menu] March 25 - 08:33 - 
+INFO [com.bank.util.Menu] March 25 - 08:33 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:33 - 
+INFO [com.bank.util.Menu] March 25 - 08:33 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:33 - 
+INFO [com.bank.util.Menu] March 25 - 08:33 - 1 - apply for new bank account
+INFO [com.bank.util.Menu] March 25 - 08:33 - 2 - view account balances
+INFO [com.bank.util.Menu] March 25 - 08:33 - 3 - withdraw or deposit
+INFO [com.bank.util.Menu] March 25 - 08:33 - 4 - manage transfers
+INFO [com.bank.util.Menu] March 25 - 08:33 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:33 - 
+INFO [com.bank.util.Menu] March 25 - 08:34 - 
+INFO [com.bank.util.Menu] March 25 - 08:34 - would you like to post or approve a transfer?
+INFO [com.bank.util.Menu] March 25 - 08:34 - 
+INFO [com.bank.util.Menu] March 25 - 08:34 - 1 - post
+INFO [com.bank.util.Menu] March 25 - 08:34 - 2 - approve
+INFO [com.bank.util.Menu] March 25 - 08:34 - 
+INFO [com.bank.util.Menu] March 25 - 08:34 - 
+INFO [com.bank.util.Menu] March 25 - 08:34 - which account would you like to transfer from?
+INFO [com.bank.util.Menu] March 25 - 08:34 - 
+INFO [com.bank.util.Menu] March 25 - 08:34 - 100025
+INFO [com.bank.util.Menu] March 25 - 08:34 - 100030
+INFO [com.bank.util.Menu] March 25 - 08:34 - 
+INFO [com.bank.util.Menu] March 25 - 08:34 - 
+INFO [com.bank.util.Menu] March 25 - 08:34 - SAVINGS 100025: $323.00
+INFO [com.bank.util.Menu] March 25 - 08:34 - 
+INFO [com.bank.util.Menu] March 25 - 08:34 - enter the account number you would like to transfer to:
+INFO [com.bank.util.Menu] March 25 - 08:34 - how much would you like to transfer?
+INFO [com.bank.util.Menu] March 25 - 08:34 - 
+INFO [com.bank.util.Menu] March 25 - 08:34 - new balance for SAVINGS 100025: $320.00
+INFO [com.bank.util.Menu] March 25 - 08:34 - 
+INFO [com.bank.util.Menu] March 25 - 08:34 - [Thu Mar 25 08:34:14 CDT 2021] pending transfer 10000019 from acc 100025 to acc 100030 of $3.00
+INFO [com.bank.util.Menu] March 25 - 08:34 - 
+INFO [com.bank.util.Menu] March 25 - 08:34 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:34 - 
+INFO [com.bank.util.Menu] March 25 - 08:34 -                        BBB Customer Menu
+INFO [com.bank.util.Menu] March 25 - 08:34 - 
+INFO [com.bank.util.Menu] March 25 - 08:34 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:34 - 
+INFO [com.bank.util.Menu] March 25 - 08:34 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:34 - 
+INFO [com.bank.util.Menu] March 25 - 08:34 - 1 - apply for new bank account
+INFO [com.bank.util.Menu] March 25 - 08:34 - 2 - view account balances
+INFO [com.bank.util.Menu] March 25 - 08:34 - 3 - withdraw or deposit
+INFO [com.bank.util.Menu] March 25 - 08:34 - 4 - manage transfers
+INFO [com.bank.util.Menu] March 25 - 08:34 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:34 - 
+INFO [com.bank.util.Menu] March 25 - 08:34 - 
+INFO [com.bank.util.Menu] March 25 - 08:34 - would you like to post or approve a transfer?
+INFO [com.bank.util.Menu] March 25 - 08:34 - 
+INFO [com.bank.util.Menu] March 25 - 08:34 - 1 - post
+INFO [com.bank.util.Menu] March 25 - 08:34 - 2 - approve
+INFO [com.bank.util.Menu] March 25 - 08:34 - 
+INFO [com.bank.util.Menu] March 25 - 08:34 - 
+INFO [com.bank.util.Menu] March 25 - 08:34 - here are your pending transfers:
+INFO [com.bank.util.Menu] March 25 - 08:34 - 
+INFO [com.bank.util.Menu] March 25 - 08:34 - [2021-03-25 08:31:10.824] pending transfer    10000018 from acc 100030 to acc 100025 of $32.23
+INFO [com.bank.util.Menu] March 25 - 08:34 - [2021-03-25 08:29:19.382] pending transfer    10000017 from acc 100025 to acc 100030 of $2.91
+INFO [com.bank.util.Menu] March 25 - 08:34 - [2021-03-25 08:34:14.18] pending transfer    10000019 from acc 100025 to acc 100030 of $3.00
+INFO [com.bank.util.Menu] March 25 - 08:34 - 
+INFO [com.bank.util.Menu] March 25 - 08:34 - enter transfer id to approve or reject:
+INFO [com.bank.util.Menu] March 25 - 08:34 - pending transfer 10000019 from Truman Ellington to acc 100030 of $3.00
+INFO [com.bank.util.Menu] March 25 - 08:34 - 
+INFO [com.bank.util.Menu] March 25 - 08:34 - would you like to approve this transfer? (y/n)
+INFO [com.bank.util.Menu] March 25 - 08:34 - 
+INFO [com.bank.util.Menu] March 25 - 08:34 - 
+INFO [com.bank.util.Menu] March 25 - 08:34 - CHECKING 100030: $2003.00
+INFO [com.bank.util.Menu] March 25 - 08:34 - 
+INFO [com.bank.util.Menu] March 25 - 08:34 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:34 - 
+INFO [com.bank.util.Menu] March 25 - 08:34 -                        BBB Customer Menu
+INFO [com.bank.util.Menu] March 25 - 08:34 - 
+INFO [com.bank.util.Menu] March 25 - 08:34 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:34 - 
+INFO [com.bank.util.Menu] March 25 - 08:34 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:34 - 
+INFO [com.bank.util.Menu] March 25 - 08:34 - 1 - apply for new bank account
+INFO [com.bank.util.Menu] March 25 - 08:34 - 2 - view account balances
+INFO [com.bank.util.Menu] March 25 - 08:34 - 3 - withdraw or deposit
+INFO [com.bank.util.Menu] March 25 - 08:34 - 4 - manage transfers
+INFO [com.bank.util.Menu] March 25 - 08:34 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:34 - 
+INFO [com.bank.util.Menu] March 25 - 08:34 - 
+INFO [com.bank.util.Menu] March 25 - 08:34 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:34 - 
+INFO [com.bank.util.Menu] March 25 - 08:34 -                          BIG BUCK$ BANK
+INFO [com.bank.util.Menu] March 25 - 08:34 - 
+INFO [com.bank.util.Menu] March 25 - 08:34 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:34 - 
+INFO [com.bank.util.Menu] March 25 - 08:34 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:34 - 
+INFO [com.bank.util.Menu] March 25 - 08:34 - 1 - log in
+INFO [com.bank.util.Menu] March 25 - 08:34 - 2 - register for customer account
+INFO [com.bank.util.Menu] March 25 - 08:34 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:34 - 
+INFO [com.bank.util.Menu] March 25 - 08:34 - 
+INFO [com.bank.util.Menu] March 25 - 08:34 - ----------------------------------------------------------------
+INFO [com.bank.util.Menu] March 25 - 08:34 - 
+INFO [com.bank.util.Menu] March 25 - 08:34 - thank you for banking with BIG BUCK$ BANK!!
+INFO [com.bank.util.Menu] March 25 - 08:34 - 
+INFO [com.bank.util.Menu] March 25 - 08:34 - << BBB Application v1.0 >>
+INFO [com.bank.util.Menu] March 25 - 08:34 - 
+INFO [com.bank.util.Menu] March 25 - 08:35 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:35 - 
+INFO [com.bank.util.Menu] March 25 - 08:35 -                          BIG BUCK$ BANK
+INFO [com.bank.util.Menu] March 25 - 08:35 - 
+INFO [com.bank.util.Menu] March 25 - 08:35 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:35 - 
+INFO [com.bank.util.Menu] March 25 - 08:35 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:35 - 
+INFO [com.bank.util.Menu] March 25 - 08:35 - 1 - log in
+INFO [com.bank.util.Menu] March 25 - 08:35 - 2 - register for customer account
+INFO [com.bank.util.Menu] March 25 - 08:35 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:35 - 
+INFO [com.bank.util.Menu] March 25 - 08:35 - 
+INFO [com.bank.util.Menu] March 25 - 08:35 - enter user id:
+INFO [com.bank.util.Menu] March 25 - 08:35 - enter user password:
+INFO [com.bank.util.Menu] March 25 - 08:35 - 
+INFO [com.bank.util.Menu] March 25 - 08:35 - W E L C O M E , Truman Ellington!
+INFO [com.bank.util.Menu] March 25 - 08:35 - 
+INFO [com.bank.util.Menu] March 25 - 08:35 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:35 - 
+INFO [com.bank.util.Menu] March 25 - 08:35 -                        BBB Customer Menu
+INFO [com.bank.util.Menu] March 25 - 08:35 - 
+INFO [com.bank.util.Menu] March 25 - 08:35 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:35 - 
+INFO [com.bank.util.Menu] March 25 - 08:35 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:35 - 
+INFO [com.bank.util.Menu] March 25 - 08:35 - 1 - apply for new bank account
+INFO [com.bank.util.Menu] March 25 - 08:35 - 2 - view account balances
+INFO [com.bank.util.Menu] March 25 - 08:35 - 3 - withdraw or deposit
+INFO [com.bank.util.Menu] March 25 - 08:35 - 4 - manage transfers
+INFO [com.bank.util.Menu] March 25 - 08:35 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:35 - 
+INFO [com.bank.util.Menu] March 25 - 08:35 - 
+INFO [com.bank.util.Menu] March 25 - 08:35 - would you like to post or approve a transfer?
+INFO [com.bank.util.Menu] March 25 - 08:35 - 
+INFO [com.bank.util.Menu] March 25 - 08:35 - 1 - post
+INFO [com.bank.util.Menu] March 25 - 08:35 - 2 - approve
+INFO [com.bank.util.Menu] March 25 - 08:35 - 
+INFO [com.bank.util.Menu] March 25 - 08:35 - 
+INFO [com.bank.util.Menu] March 25 - 08:35 - which account would you like to transfer from?
+INFO [com.bank.util.Menu] March 25 - 08:35 - 
+INFO [com.bank.util.Menu] March 25 - 08:35 - 100025
+INFO [com.bank.util.Menu] March 25 - 08:35 - 100030
+INFO [com.bank.util.Menu] March 25 - 08:35 - 
+INFO [com.bank.util.Menu] March 25 - 08:35 - 
+INFO [com.bank.util.Menu] March 25 - 08:35 - CHECKING 100030: $2003.00
+INFO [com.bank.util.Menu] March 25 - 08:35 - 
+INFO [com.bank.util.Menu] March 25 - 08:35 - enter the account number you would like to transfer to:
+INFO [com.bank.util.Menu] March 25 - 08:35 - how much would you like to transfer?
+INFO [com.bank.util.Menu] March 25 - 08:35 - 
+INFO [com.bank.util.Menu] March 25 - 08:35 - new balance for CHECKING 100030: $1999.00
+INFO [com.bank.util.Menu] March 25 - 08:35 - 
+INFO [com.bank.util.Menu] March 25 - 08:35 - [Thu Mar 25 08:35:33 CDT 2021] pending transfer 10000020 from acc 100030 to acc 100025 of $4.00
+INFO [com.bank.util.Menu] March 25 - 08:35 - 
+INFO [com.bank.util.Menu] March 25 - 08:35 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:35 - 
+INFO [com.bank.util.Menu] March 25 - 08:35 -                        BBB Customer Menu
+INFO [com.bank.util.Menu] March 25 - 08:35 - 
+INFO [com.bank.util.Menu] March 25 - 08:35 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:35 - 
+INFO [com.bank.util.Menu] March 25 - 08:35 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:35 - 
+INFO [com.bank.util.Menu] March 25 - 08:35 - 1 - apply for new bank account
+INFO [com.bank.util.Menu] March 25 - 08:35 - 2 - view account balances
+INFO [com.bank.util.Menu] March 25 - 08:35 - 3 - withdraw or deposit
+INFO [com.bank.util.Menu] March 25 - 08:35 - 4 - manage transfers
+INFO [com.bank.util.Menu] March 25 - 08:35 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:35 - 
+INFO [com.bank.util.Menu] March 25 - 08:35 - 
+INFO [com.bank.util.Menu] March 25 - 08:35 - would you like to post or approve a transfer?
+INFO [com.bank.util.Menu] March 25 - 08:35 - 
+INFO [com.bank.util.Menu] March 25 - 08:35 - 1 - post
+INFO [com.bank.util.Menu] March 25 - 08:35 - 2 - approve
+INFO [com.bank.util.Menu] March 25 - 08:35 - 
+INFO [com.bank.util.Menu] March 25 - 08:35 - 
+INFO [com.bank.util.Menu] March 25 - 08:35 - here are your pending transfers:
+INFO [com.bank.util.Menu] March 25 - 08:35 - 
+INFO [com.bank.util.Menu] March 25 - 08:35 - [2021-03-25 08:31:10.824] pending transfer 10000018 from acc 100030 to acc 100025 of $32.23
+INFO [com.bank.util.Menu] March 25 - 08:35 - [2021-03-25 08:35:33.021] pending transfer 10000020 from acc 100030 to acc 100025 of $4.00
+INFO [com.bank.util.Menu] March 25 - 08:35 - [2021-03-25 08:29:19.382] pending transfer 10000017 from acc 100025 to acc 100030 of $2.91
+INFO [com.bank.util.Menu] March 25 - 08:35 - 
+INFO [com.bank.util.Menu] March 25 - 08:35 - enter transfer id to approve or reject:
+INFO [com.bank.util.Menu] March 25 - 08:35 - pending transfer 10000017 from Truman Ellington to acc 100030 of $2.91
+INFO [com.bank.util.Menu] March 25 - 08:35 - 
+INFO [com.bank.util.Menu] March 25 - 08:35 - would you like to approve this transfer? (y/n)
+INFO [com.bank.util.Menu] March 25 - 08:35 - 
+INFO [com.bank.util.Menu] March 25 - 08:35 - 
+INFO [com.bank.util.Menu] March 25 - 08:35 - transfer rejected
+INFO [com.bank.util.Menu] March 25 - 08:35 - 
+INFO [com.bank.util.Menu] March 25 - 08:35 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:35 - 
+INFO [com.bank.util.Menu] March 25 - 08:35 -                        BBB Customer Menu
+INFO [com.bank.util.Menu] March 25 - 08:35 - 
+INFO [com.bank.util.Menu] March 25 - 08:35 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:35 - 
+INFO [com.bank.util.Menu] March 25 - 08:35 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:35 - 
+INFO [com.bank.util.Menu] March 25 - 08:35 - 1 - apply for new bank account
+INFO [com.bank.util.Menu] March 25 - 08:35 - 2 - view account balances
+INFO [com.bank.util.Menu] March 25 - 08:35 - 3 - withdraw or deposit
+INFO [com.bank.util.Menu] March 25 - 08:35 - 4 - manage transfers
+INFO [com.bank.util.Menu] March 25 - 08:35 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:35 - 
+INFO [com.bank.util.Menu] March 25 - 08:36 - 
+INFO [com.bank.util.Menu] March 25 - 08:36 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:36 - 
+INFO [com.bank.util.Menu] March 25 - 08:36 -                          BIG BUCK$ BANK
+INFO [com.bank.util.Menu] March 25 - 08:36 - 
+INFO [com.bank.util.Menu] March 25 - 08:36 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:36 - 
+INFO [com.bank.util.Menu] March 25 - 08:36 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:36 - 
+INFO [com.bank.util.Menu] March 25 - 08:36 - 1 - log in
+INFO [com.bank.util.Menu] March 25 - 08:36 - 2 - register for customer account
+INFO [com.bank.util.Menu] March 25 - 08:36 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:36 - 
+INFO [com.bank.util.Menu] March 25 - 08:36 - 
+INFO [com.bank.util.Menu] March 25 - 08:36 - enter user id:
+INFO [com.bank.util.Menu] March 25 - 08:36 - enter user password:
+INFO [com.bank.util.Menu] March 25 - 08:36 - 
+INFO [com.bank.util.Menu] March 25 - 08:36 - W E L C O M E , Oliver Herbert!
+INFO [com.bank.util.Menu] March 25 - 08:36 - 
+INFO [com.bank.util.Menu] March 25 - 08:36 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:36 - 
+INFO [com.bank.util.Menu] March 25 - 08:36 -                        BBB Employee Menu
+INFO [com.bank.util.Menu] March 25 - 08:36 - 
+INFO [com.bank.util.Menu] March 25 - 08:36 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:36 - 
+INFO [com.bank.util.Menu] March 25 - 08:36 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:36 - 
+INFO [com.bank.util.Menu] March 25 - 08:36 - 1 - view pending customer accounts
+INFO [com.bank.util.Menu] March 25 - 08:36 - 2 - view customer's account
+INFO [com.bank.util.Menu] March 25 - 08:36 - 3 - view transaction logs
+INFO [com.bank.util.Menu] March 25 - 08:36 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:36 - 
+INFO [com.bank.util.Menu] March 25 - 08:36 - 
+INFO [com.bank.util.Menu] March 25 - 08:36 - here are the pending accounts:
+INFO [com.bank.util.Menu] March 25 - 08:36 - 
+INFO [com.bank.util.Menu] March 25 - 08:36 - SAVINGS 100031 (initial balance $0.00) is pending review
+INFO [com.bank.util.Menu] March 25 - 08:36 - CHECKING 100032 (initial balance $0.00) is pending review
+INFO [com.bank.util.Menu] March 25 - 08:36 - CHECKING 100036 (initial balance $400.09) is pending review
+INFO [com.bank.util.Menu] March 25 - 08:36 - 
+INFO [com.bank.util.Menu] March 25 - 08:36 - enter account id to approve or reject:
+INFO [com.bank.util.Menu] March 25 - 08:36 - DEPOSIT 1003 (initial balance $0.00) for Oliver Herbert is pending review
+INFO [com.bank.util.Menu] March 25 - 08:36 - 
+INFO [com.bank.util.Menu] March 25 - 08:36 - would you like to approve this account? (y/n)
+INFO [com.bank.util.Menu] March 25 - 08:36 - 
+INFO [com.bank.util.Menu] March 25 - 08:38 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:38 - 
+INFO [com.bank.util.Menu] March 25 - 08:38 -                          BIG BUCK$ BANK
+INFO [com.bank.util.Menu] March 25 - 08:38 - 
+INFO [com.bank.util.Menu] March 25 - 08:38 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:38 - 
+INFO [com.bank.util.Menu] March 25 - 08:38 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:38 - 
+INFO [com.bank.util.Menu] March 25 - 08:38 - 1 - log in
+INFO [com.bank.util.Menu] March 25 - 08:38 - 2 - register for customer account
+INFO [com.bank.util.Menu] March 25 - 08:38 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:38 - 
+INFO [com.bank.util.Menu] March 25 - 08:38 - 
+INFO [com.bank.util.Menu] March 25 - 08:38 - enter user id:
+INFO [com.bank.util.Menu] March 25 - 08:38 - enter user password:
+INFO [com.bank.util.Menu] March 25 - 08:38 - 
+INFO [com.bank.util.Menu] March 25 - 08:38 - W E L C O M E , Oliver Herbert!
+INFO [com.bank.util.Menu] March 25 - 08:38 - 
+INFO [com.bank.util.Menu] March 25 - 08:38 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:38 - 
+INFO [com.bank.util.Menu] March 25 - 08:38 -                        BBB Employee Menu
+INFO [com.bank.util.Menu] March 25 - 08:38 - 
+INFO [com.bank.util.Menu] March 25 - 08:38 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:38 - 
+INFO [com.bank.util.Menu] March 25 - 08:38 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:38 - 
+INFO [com.bank.util.Menu] March 25 - 08:38 - 1 - view pending customer accounts
+INFO [com.bank.util.Menu] March 25 - 08:38 - 2 - view customer's account
+INFO [com.bank.util.Menu] March 25 - 08:38 - 3 - view transaction logs
+INFO [com.bank.util.Menu] March 25 - 08:38 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:38 - 
+INFO [com.bank.util.Menu] March 25 - 08:38 - 
+INFO [com.bank.util.Menu] March 25 - 08:38 - here are the pending accounts:
+INFO [com.bank.util.Menu] March 25 - 08:38 - 
+INFO [com.bank.util.Menu] March 25 - 08:38 - SAVINGS 100031 (initial balance $0.00) is pending review
+INFO [com.bank.util.Menu] March 25 - 08:38 - CHECKING 100032 (initial balance $0.00) is pending review
+INFO [com.bank.util.Menu] March 25 - 08:38 - CHECKING 100036 (initial balance $400.09) is pending review
+INFO [com.bank.util.Menu] March 25 - 08:38 - 
+INFO [com.bank.util.Menu] March 25 - 08:38 - enter account id to approve or reject:
+INFO [com.bank.util.Menu] March 25 - 08:38 - CHECKING 100032 (initial balance $0.00) for Oliver Herbert is pending review
+INFO [com.bank.util.Menu] March 25 - 08:38 - 
+INFO [com.bank.util.Menu] March 25 - 08:38 - would you like to approve this account? (y/n)
+INFO [com.bank.util.Menu] March 25 - 08:38 - 
+INFO [com.bank.util.Menu] March 25 - 08:39 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:39 - 
+INFO [com.bank.util.Menu] March 25 - 08:39 -                          BIG BUCK$ BANK
+INFO [com.bank.util.Menu] March 25 - 08:39 - 
+INFO [com.bank.util.Menu] March 25 - 08:39 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:39 - 
+INFO [com.bank.util.Menu] March 25 - 08:39 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:39 - 
+INFO [com.bank.util.Menu] March 25 - 08:39 - 1 - log in
+INFO [com.bank.util.Menu] March 25 - 08:39 - 2 - register for customer account
+INFO [com.bank.util.Menu] March 25 - 08:39 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:39 - 
+INFO [com.bank.util.Menu] March 25 - 08:39 - 
+INFO [com.bank.util.Menu] March 25 - 08:39 - enter user id:
+INFO [com.bank.util.Menu] March 25 - 08:39 - enter user password:
+INFO [com.bank.util.Menu] March 25 - 08:39 - 
+INFO [com.bank.util.Menu] March 25 - 08:39 - W E L C O M E , Oliver Herbert!
+INFO [com.bank.util.Menu] March 25 - 08:39 - 
+INFO [com.bank.util.Menu] March 25 - 08:39 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:39 - 
+INFO [com.bank.util.Menu] March 25 - 08:39 -                        BBB Employee Menu
+INFO [com.bank.util.Menu] March 25 - 08:39 - 
+INFO [com.bank.util.Menu] March 25 - 08:39 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:39 - 
+INFO [com.bank.util.Menu] March 25 - 08:39 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:39 - 
+INFO [com.bank.util.Menu] March 25 - 08:39 - 1 - view pending customer accounts
+INFO [com.bank.util.Menu] March 25 - 08:39 - 2 - view customer's account
+INFO [com.bank.util.Menu] March 25 - 08:39 - 3 - view transaction logs
+INFO [com.bank.util.Menu] March 25 - 08:39 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:39 - 
+INFO [com.bank.util.Menu] March 25 - 08:39 - 
+INFO [com.bank.util.Menu] March 25 - 08:39 - here are the pending accounts:
+INFO [com.bank.util.Menu] March 25 - 08:39 - 
+INFO [com.bank.util.Menu] March 25 - 08:39 - SAVINGS 100031 (initial balance $0.00) is pending review
+INFO [com.bank.util.Menu] March 25 - 08:39 - CHECKING 100032 (initial balance $0.00) is pending review
+INFO [com.bank.util.Menu] March 25 - 08:39 - CHECKING 100036 (initial balance $400.09) is pending review
+INFO [com.bank.util.Menu] March 25 - 08:39 - 
+INFO [com.bank.util.Menu] March 25 - 08:39 - enter account id to approve or reject:
+INFO [com.bank.util.Menu] March 25 - 08:39 - CHECKING 100036 (initial balance $400.09) for March25 Presentation is pending review
+INFO [com.bank.util.Menu] March 25 - 08:39 - 
+INFO [com.bank.util.Menu] March 25 - 08:39 - would you like to approve this account? (y/n)
+INFO [com.bank.util.Menu] March 25 - 08:39 - 
+INFO [com.bank.util.Menu] March 25 - 08:40 - 
+INFO [com.bank.util.Menu] March 25 - 08:40 - CHECKING 100036: $400.09 has been approved
+INFO [com.bank.util.Menu] March 25 - 08:40 - 
+INFO [com.bank.util.Menu] March 25 - 08:40 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:40 - 
+INFO [com.bank.util.Menu] March 25 - 08:40 -                        BBB Employee Menu
+INFO [com.bank.util.Menu] March 25 - 08:40 - 
+INFO [com.bank.util.Menu] March 25 - 08:40 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:40 - 
+INFO [com.bank.util.Menu] March 25 - 08:40 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:40 - 
+INFO [com.bank.util.Menu] March 25 - 08:40 - 1 - view pending customer accounts
+INFO [com.bank.util.Menu] March 25 - 08:40 - 2 - view customer's account
+INFO [com.bank.util.Menu] March 25 - 08:40 - 3 - view transaction logs
+INFO [com.bank.util.Menu] March 25 - 08:40 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:40 - 
+INFO [com.bank.util.Menu] March 25 - 08:40 - 
+INFO [com.bank.util.Menu] March 25 - 08:40 - enter customer id:
+INFO [com.bank.util.Menu] March 25 - 08:40 - 
+INFO [com.bank.util.Menu] March 25 - 08:40 - 
+INFO [com.bank.util.Menu] March 25 - 08:40 - 100012
+INFO [com.bank.util.Menu] March 25 - 08:40 - 
+INFO [com.bank.util.Menu] March 25 - 08:40 - enter account id:
+INFO [com.bank.util.Menu] March 25 - 08:40 - 
+INFO [com.bank.util.Menu] March 25 - 08:40 - 
+INFO [com.bank.util.Menu] March 25 - 08:40 - SAVINGS 100012: $5768.43
+INFO [com.bank.util.Menu] March 25 - 08:40 - 
+INFO [com.bank.util.Menu] March 25 - 08:40 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:40 - 
+INFO [com.bank.util.Menu] March 25 - 08:40 -                        BBB Employee Menu
+INFO [com.bank.util.Menu] March 25 - 08:40 - 
+INFO [com.bank.util.Menu] March 25 - 08:40 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:40 - 
+INFO [com.bank.util.Menu] March 25 - 08:40 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:40 - 
+INFO [com.bank.util.Menu] March 25 - 08:40 - 1 - view pending customer accounts
+INFO [com.bank.util.Menu] March 25 - 08:40 - 2 - view customer's account
+INFO [com.bank.util.Menu] March 25 - 08:40 - 3 - view transaction logs
+INFO [com.bank.util.Menu] March 25 - 08:40 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:40 - 
+INFO [com.bank.util.Menu] March 25 - 08:41 - 
+INFO [com.bank.util.Menu] March 25 - 08:41 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:41 - 
+INFO [com.bank.util.Menu] March 25 - 08:41 -                          BIG BUCK$ BANK
+INFO [com.bank.util.Menu] March 25 - 08:41 - 
+INFO [com.bank.util.Menu] March 25 - 08:41 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:41 - 
+INFO [com.bank.util.Menu] March 25 - 08:41 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:41 - 
+INFO [com.bank.util.Menu] March 25 - 08:41 - 1 - log in
+INFO [com.bank.util.Menu] March 25 - 08:41 - 2 - register for customer account
+INFO [com.bank.util.Menu] March 25 - 08:41 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:41 - 
+INFO [com.bank.util.Menu] March 25 - 08:41 - 
+INFO [com.bank.util.Menu] March 25 - 08:41 - enter user id:
+INFO [com.bank.util.Menu] March 25 - 08:41 - enter user password:
+INFO [com.bank.util.Menu] March 25 - 08:41 - 
+INFO [com.bank.util.Menu] March 25 - 08:41 - W E L C O M E , Delia Ericson!
+INFO [com.bank.util.Menu] March 25 - 08:41 - 
+INFO [com.bank.util.Menu] March 25 - 08:41 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:41 - 
+INFO [com.bank.util.Menu] March 25 - 08:41 -                        BBB Customer Menu
+INFO [com.bank.util.Menu] March 25 - 08:41 - 
+INFO [com.bank.util.Menu] March 25 - 08:41 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:41 - 
+INFO [com.bank.util.Menu] March 25 - 08:41 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:41 - 
+INFO [com.bank.util.Menu] March 25 - 08:41 - 1 - apply for new bank account
+INFO [com.bank.util.Menu] March 25 - 08:41 - 2 - view account balances
+INFO [com.bank.util.Menu] March 25 - 08:41 - 3 - withdraw or deposit
+INFO [com.bank.util.Menu] March 25 - 08:41 - 4 - manage transfers
+INFO [com.bank.util.Menu] March 25 - 08:41 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:41 - 
+INFO [com.bank.util.Menu] March 25 - 08:41 - 
+INFO [com.bank.util.Menu] March 25 - 08:41 - would you like to post or approve a transfer?
+INFO [com.bank.util.Menu] March 25 - 08:41 - 
+INFO [com.bank.util.Menu] March 25 - 08:41 - 1 - post
+INFO [com.bank.util.Menu] March 25 - 08:41 - 2 - approve
+INFO [com.bank.util.Menu] March 25 - 08:41 - 
+INFO [com.bank.util.Menu] March 25 - 08:41 - 
+INFO [com.bank.util.Menu] March 25 - 08:41 - which account would you like to transfer from?
+INFO [com.bank.util.Menu] March 25 - 08:41 - 
+INFO [com.bank.util.Menu] March 25 - 08:41 - 100001
+INFO [com.bank.util.Menu] March 25 - 08:41 - 100006
+INFO [com.bank.util.Menu] March 25 - 08:41 - 
+INFO [com.bank.util.Menu] March 25 - 08:41 - 
+INFO [com.bank.util.Menu] March 25 - 08:41 - SAVINGS 100001: $2556.49
+INFO [com.bank.util.Menu] March 25 - 08:41 - 
+INFO [com.bank.util.Menu] March 25 - 08:41 - enter the account number you would like to transfer to:
+INFO [com.bank.util.Menu] March 25 - 08:41 - how much would you like to transfer?
+INFO [com.bank.util.Menu] March 25 - 08:41 - 
+INFO [com.bank.util.Menu] March 25 - 08:41 - new balance for SAVINGS 100001: $2554.44
+INFO [com.bank.util.Menu] March 25 - 08:41 - 
+INFO [com.bank.util.Menu] March 25 - 08:41 - [Thu Mar 25 08:41:30 CDT 2021] pending transfer 10000021 from acc 100001 to acc 100006 of $2.05
+INFO [com.bank.util.Menu] March 25 - 08:41 - 
+INFO [com.bank.util.Menu] March 25 - 08:41 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:41 - 
+INFO [com.bank.util.Menu] March 25 - 08:41 -                        BBB Customer Menu
+INFO [com.bank.util.Menu] March 25 - 08:41 - 
+INFO [com.bank.util.Menu] March 25 - 08:41 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:41 - 
+INFO [com.bank.util.Menu] March 25 - 08:41 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:41 - 
+INFO [com.bank.util.Menu] March 25 - 08:41 - 1 - apply for new bank account
+INFO [com.bank.util.Menu] March 25 - 08:41 - 2 - view account balances
+INFO [com.bank.util.Menu] March 25 - 08:41 - 3 - withdraw or deposit
+INFO [com.bank.util.Menu] March 25 - 08:41 - 4 - manage transfers
+INFO [com.bank.util.Menu] March 25 - 08:41 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:41 - 
+INFO [com.bank.util.Menu] March 25 - 08:41 - 
+INFO [com.bank.util.Menu] March 25 - 08:41 - would you like to post or approve a transfer?
+INFO [com.bank.util.Menu] March 25 - 08:41 - 
+INFO [com.bank.util.Menu] March 25 - 08:41 - 1 - post
+INFO [com.bank.util.Menu] March 25 - 08:41 - 2 - approve
+INFO [com.bank.util.Menu] March 25 - 08:41 - 
+INFO [com.bank.util.Menu] March 25 - 08:41 - 
+INFO [com.bank.util.Menu] March 25 - 08:41 - here are your pending transfers:
+INFO [com.bank.util.Menu] March 25 - 08:41 - 
+INFO [com.bank.util.Menu] March 25 - 08:41 - [2021-03-25 08:41:30.101] pending transfer 10000021 from acc 100001 to acc 100006 of $2.05
+INFO [com.bank.util.Menu] March 25 - 08:41 - 
+INFO [com.bank.util.Menu] March 25 - 08:41 - enter transfer id to approve or reject:
+INFO [com.bank.util.Menu] March 25 - 08:41 - pending transfer 10000021 from Delia Ericson to acc 100006 of $2.05
+INFO [com.bank.util.Menu] March 25 - 08:41 - 
+INFO [com.bank.util.Menu] March 25 - 08:41 - would you like to approve this transfer? (y/n)
+INFO [com.bank.util.Menu] March 25 - 08:41 - 
+INFO [com.bank.util.Menu] March 25 - 08:41 - 
+INFO [com.bank.util.Menu] March 25 - 08:41 - transfer rejected
+INFO [com.bank.util.Menu] March 25 - 08:41 - 
+INFO [com.bank.util.Menu] March 25 - 08:41 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:41 - 
+INFO [com.bank.util.Menu] March 25 - 08:41 -                        BBB Customer Menu
+INFO [com.bank.util.Menu] March 25 - 08:41 - 
+INFO [com.bank.util.Menu] March 25 - 08:41 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:41 - 
+INFO [com.bank.util.Menu] March 25 - 08:41 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:41 - 
+INFO [com.bank.util.Menu] March 25 - 08:41 - 1 - apply for new bank account
+INFO [com.bank.util.Menu] March 25 - 08:41 - 2 - view account balances
+INFO [com.bank.util.Menu] March 25 - 08:41 - 3 - withdraw or deposit
+INFO [com.bank.util.Menu] March 25 - 08:41 - 4 - manage transfers
+INFO [com.bank.util.Menu] March 25 - 08:41 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:41 - 
+INFO [com.bank.util.Menu] March 25 - 08:42 - 
+INFO [com.bank.util.Menu] March 25 - 08:42 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:42 - 
+INFO [com.bank.util.Menu] March 25 - 08:42 -                          BIG BUCK$ BANK
+INFO [com.bank.util.Menu] March 25 - 08:42 - 
+INFO [com.bank.util.Menu] March 25 - 08:42 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:42 - 
+INFO [com.bank.util.Menu] March 25 - 08:42 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:42 - 
+INFO [com.bank.util.Menu] March 25 - 08:42 - 1 - log in
+INFO [com.bank.util.Menu] March 25 - 08:42 - 2 - register for customer account
+INFO [com.bank.util.Menu] March 25 - 08:42 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:42 - 
+INFO [com.bank.util.Menu] March 25 - 08:42 - 
+INFO [com.bank.util.Menu] March 25 - 08:42 - ----------------------------------------------------------------
+INFO [com.bank.util.Menu] March 25 - 08:42 - 
+INFO [com.bank.util.Menu] March 25 - 08:42 - thank you for banking with BIG BUCK$ BANK!!
+INFO [com.bank.util.Menu] March 25 - 08:42 - 
+INFO [com.bank.util.Menu] March 25 - 08:42 - << BBB Application v1.0 >>
+INFO [com.bank.util.Menu] March 25 - 08:42 - 
+INFO [com.bank.util.Menu] March 25 - 08:42 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:42 - 
+INFO [com.bank.util.Menu] March 25 - 08:42 -                          BIG BUCK$ BANK
+INFO [com.bank.util.Menu] March 25 - 08:42 - 
+INFO [com.bank.util.Menu] March 25 - 08:42 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:42 - 
+INFO [com.bank.util.Menu] March 25 - 08:42 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:42 - 
+INFO [com.bank.util.Menu] March 25 - 08:42 - 1 - log in
+INFO [com.bank.util.Menu] March 25 - 08:42 - 2 - register for customer account
+INFO [com.bank.util.Menu] March 25 - 08:42 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:42 - 
+INFO [com.bank.util.Menu] March 25 - 08:42 - 
+INFO [com.bank.util.Menu] March 25 - 08:42 - enter first name:
+INFO [com.bank.util.Menu] March 25 - 08:42 - enter middle name. if not applicable, press enter:
+INFO [com.bank.util.Menu] March 25 - 08:42 - enter last name:
+INFO [com.bank.util.Menu] March 25 - 08:42 - set your password:
+INFO [com.bank.util.Menu] March 25 - 08:42 - enter street address:
+INFO [com.bank.util.Menu] March 25 - 08:42 - enter city:
+INFO [com.bank.util.Menu] March 25 - 08:42 - enter 2-letter state abbreviation:
+INFO [com.bank.util.Menu] March 25 - 08:42 - enter 5-digit zip code:
+INFO [com.bank.util.Menu] March 25 - 08:42 - enter phone number in ###-###-#### format:
+INFO [com.bank.util.Menu] March 25 - 08:42 - 
+INFO [com.bank.util.Menu] March 25 - 08:42 - registration successful! your customer id is: 1024
+INFO [com.bank.util.Menu] March 25 - 08:42 - 
+INFO [com.bank.util.Menu] March 25 - 08:42 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:42 - 
+INFO [com.bank.util.Menu] March 25 - 08:42 -                          BIG BUCK$ BANK
+INFO [com.bank.util.Menu] March 25 - 08:42 - 
+INFO [com.bank.util.Menu] March 25 - 08:42 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:42 - 
+INFO [com.bank.util.Menu] March 25 - 08:42 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:42 - 
+INFO [com.bank.util.Menu] March 25 - 08:42 - 1 - log in
+INFO [com.bank.util.Menu] March 25 - 08:42 - 2 - register for customer account
+INFO [com.bank.util.Menu] March 25 - 08:42 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:42 - 
+INFO [com.bank.util.Menu] March 25 - 08:42 - 
+ERROR [com.bank.util.Menu] March 25 - 08:42 - input is invalid
+INFO [com.bank.util.Menu] March 25 - 08:42 - 
+INFO [com.bank.util.Menu] March 25 - 08:42 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:42 - 
+INFO [com.bank.util.Menu] March 25 - 08:42 -                          BIG BUCK$ BANK
+INFO [com.bank.util.Menu] March 25 - 08:42 - 
+INFO [com.bank.util.Menu] March 25 - 08:42 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:42 - 
+INFO [com.bank.util.Menu] March 25 - 08:42 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:42 - 
+INFO [com.bank.util.Menu] March 25 - 08:42 - 1 - log in
+INFO [com.bank.util.Menu] March 25 - 08:42 - 2 - register for customer account
+INFO [com.bank.util.Menu] March 25 - 08:42 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:42 - 
+INFO [com.bank.util.Menu] March 25 - 08:42 - 
+INFO [com.bank.util.Menu] March 25 - 08:42 - enter user id:
+INFO [com.bank.util.Menu] March 25 - 08:43 - enter user password:
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 - W E L C O M E , March25Part2 Project!
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 -                        BBB Customer Menu
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 - 1 - apply for new bank account
+INFO [com.bank.util.Menu] March 25 - 08:43 - 2 - view account balances
+INFO [com.bank.util.Menu] March 25 - 08:43 - 3 - withdraw or deposit
+INFO [com.bank.util.Menu] March 25 - 08:43 - 4 - manage transfers
+INFO [com.bank.util.Menu] March 25 - 08:43 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 - you have no active accounts
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 -                        BBB Customer Menu
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 - 1 - apply for new bank account
+INFO [com.bank.util.Menu] March 25 - 08:43 - 2 - view account balances
+INFO [com.bank.util.Menu] March 25 - 08:43 - 3 - withdraw or deposit
+INFO [com.bank.util.Menu] March 25 - 08:43 - 4 - manage transfers
+INFO [com.bank.util.Menu] March 25 - 08:43 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 - what kind of account would you like to apply for?
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 - 1 - checking
+INFO [com.bank.util.Menu] March 25 - 08:43 - 2 - savings
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 - would you like to make an initial deposit? (y/n)
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 - application successful! your account id is: 100037
+INFO [com.bank.util.Menu] March 25 - 08:43 - your bank account is pending review by an employee
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 -                        BBB Customer Menu
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 - 1 - apply for new bank account
+INFO [com.bank.util.Menu] March 25 - 08:43 - 2 - view account balances
+INFO [com.bank.util.Menu] March 25 - 08:43 - 3 - withdraw or deposit
+INFO [com.bank.util.Menu] March 25 - 08:43 - 4 - manage transfers
+INFO [com.bank.util.Menu] March 25 - 08:43 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 - what kind of transaction would you like to make?
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 - 1 - withdrawal
+INFO [com.bank.util.Menu] March 25 - 08:43 - 2 - deposit
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 - you have no active accounts
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 -                        BBB Customer Menu
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 - 1 - apply for new bank account
+INFO [com.bank.util.Menu] March 25 - 08:43 - 2 - view account balances
+INFO [com.bank.util.Menu] March 25 - 08:43 - 3 - withdraw or deposit
+INFO [com.bank.util.Menu] March 25 - 08:43 - 4 - manage transfers
+INFO [com.bank.util.Menu] March 25 - 08:43 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 -                          BIG BUCK$ BANK
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 - 1 - log in
+INFO [com.bank.util.Menu] March 25 - 08:43 - 2 - register for customer account
+INFO [com.bank.util.Menu] March 25 - 08:43 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 - enter user id:
+INFO [com.bank.util.Menu] March 25 - 08:43 - enter user password:
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 - W E L C O M E , March25 Presentation!
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 -                        BBB Customer Menu
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 - 1 - apply for new bank account
+INFO [com.bank.util.Menu] March 25 - 08:43 - 2 - view account balances
+INFO [com.bank.util.Menu] March 25 - 08:43 - 3 - withdraw or deposit
+INFO [com.bank.util.Menu] March 25 - 08:43 - 4 - manage transfers
+INFO [com.bank.util.Menu] March 25 - 08:43 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 - which account balance would you like to view?
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 - 100036
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 - CHECKING 100036: $400.09
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 -                        BBB Customer Menu
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 - 1 - apply for new bank account
+INFO [com.bank.util.Menu] March 25 - 08:43 - 2 - view account balances
+INFO [com.bank.util.Menu] March 25 - 08:43 - 3 - withdraw or deposit
+INFO [com.bank.util.Menu] March 25 - 08:43 - 4 - manage transfers
+INFO [com.bank.util.Menu] March 25 - 08:43 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 -                          BIG BUCK$ BANK
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 - 1 - log in
+INFO [com.bank.util.Menu] March 25 - 08:43 - 2 - register for customer account
+INFO [com.bank.util.Menu] March 25 - 08:43 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 - enter user id:
+INFO [com.bank.util.Menu] March 25 - 08:43 - enter user password:
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 - W E L C O M E , March25Part2 Project!
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 -                        BBB Customer Menu
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 - 1 - apply for new bank account
+INFO [com.bank.util.Menu] March 25 - 08:43 - 2 - view account balances
+INFO [com.bank.util.Menu] March 25 - 08:43 - 3 - withdraw or deposit
+INFO [com.bank.util.Menu] March 25 - 08:43 - 4 - manage transfers
+INFO [com.bank.util.Menu] March 25 - 08:43 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 - would you like to post or approve a transfer?
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 - 1 - post
+INFO [com.bank.util.Menu] March 25 - 08:43 - 2 - approve
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 - you have no active accounts
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 -                        BBB Customer Menu
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 - 1 - apply for new bank account
+INFO [com.bank.util.Menu] March 25 - 08:43 - 2 - view account balances
+INFO [com.bank.util.Menu] March 25 - 08:43 - 3 - withdraw or deposit
+INFO [com.bank.util.Menu] March 25 - 08:43 - 4 - manage transfers
+INFO [com.bank.util.Menu] March 25 - 08:43 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 -                          BIG BUCK$ BANK
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:43 - 1 - log in
+INFO [com.bank.util.Menu] March 25 - 08:43 - 2 - register for customer account
+INFO [com.bank.util.Menu] March 25 - 08:43 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:43 - 
+INFO [com.bank.util.Menu] March 25 - 08:44 - 
+INFO [com.bank.util.Menu] March 25 - 08:44 - enter user id:
+INFO [com.bank.util.Menu] March 25 - 08:44 - enter user password:
+INFO [com.bank.util.Menu] March 25 - 08:44 - 
+INFO [com.bank.util.Menu] March 25 - 08:44 - W E L C O M E , Delia Ericson!
+INFO [com.bank.util.Menu] March 25 - 08:44 - 
+INFO [com.bank.util.Menu] March 25 - 08:44 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:44 - 
+INFO [com.bank.util.Menu] March 25 - 08:44 -                        BBB Customer Menu
+INFO [com.bank.util.Menu] March 25 - 08:44 - 
+INFO [com.bank.util.Menu] March 25 - 08:44 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:44 - 
+INFO [com.bank.util.Menu] March 25 - 08:44 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:44 - 
+INFO [com.bank.util.Menu] March 25 - 08:44 - 1 - apply for new bank account
+INFO [com.bank.util.Menu] March 25 - 08:44 - 2 - view account balances
+INFO [com.bank.util.Menu] March 25 - 08:44 - 3 - withdraw or deposit
+INFO [com.bank.util.Menu] March 25 - 08:44 - 4 - manage transfers
+INFO [com.bank.util.Menu] March 25 - 08:44 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:44 - 
+INFO [com.bank.util.Menu] March 25 - 08:44 - 
+INFO [com.bank.util.Menu] March 25 - 08:44 - what kind of transaction would you like to make?
+INFO [com.bank.util.Menu] March 25 - 08:44 - 
+INFO [com.bank.util.Menu] March 25 - 08:44 - 1 - withdrawal
+INFO [com.bank.util.Menu] March 25 - 08:44 - 2 - deposit
+INFO [com.bank.util.Menu] March 25 - 08:44 - 
+INFO [com.bank.util.Menu] March 25 - 08:44 - 
+INFO [com.bank.util.Menu] March 25 - 08:44 - which account would you like to make a deposit?
+INFO [com.bank.util.Menu] March 25 - 08:44 - 
+INFO [com.bank.util.Menu] March 25 - 08:44 - 100001
+INFO [com.bank.util.Menu] March 25 - 08:44 - 100006
+INFO [com.bank.util.Menu] March 25 - 08:44 - 
+INFO [com.bank.util.Menu] March 25 - 08:44 - 
+INFO [com.bank.util.Menu] March 25 - 08:44 - SAVINGS 100001: $2556.49
+INFO [com.bank.util.Menu] March 25 - 08:44 - 
+INFO [com.bank.util.Menu] March 25 - 08:44 - how much would you like to deposit?
+INFO [com.bank.util.Menu] March 25 - 08:44 - 
+INFO [com.bank.util.Menu] March 25 - 08:44 - 
+INFO [com.bank.util.Menu] March 25 - 08:44 - new balance for SAVINGS 100001: $3056.49
+INFO [com.bank.util.Menu] March 25 - 08:44 - 
+INFO [com.bank.util.Menu] March 25 - 08:44 - [Thu Mar 25 08:44:31 CDT 2021] deposit 0 to   acc 100001 of $500.00
+INFO [com.bank.util.Menu] March 25 - 08:44 - 
+INFO [com.bank.util.Menu] March 25 - 08:44 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:44 - 
+INFO [com.bank.util.Menu] March 25 - 08:44 -                        BBB Customer Menu
+INFO [com.bank.util.Menu] March 25 - 08:44 - 
+INFO [com.bank.util.Menu] March 25 - 08:44 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:44 - 
+INFO [com.bank.util.Menu] March 25 - 08:44 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:44 - 
+INFO [com.bank.util.Menu] March 25 - 08:44 - 1 - apply for new bank account
+INFO [com.bank.util.Menu] March 25 - 08:44 - 2 - view account balances
+INFO [com.bank.util.Menu] March 25 - 08:44 - 3 - withdraw or deposit
+INFO [com.bank.util.Menu] March 25 - 08:44 - 4 - manage transfers
+INFO [com.bank.util.Menu] March 25 - 08:44 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:44 - 
+INFO [com.bank.util.Menu] March 25 - 08:46 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:46 - 
+INFO [com.bank.util.Menu] March 25 - 08:46 -                          BIG BUCK$ BANK
+INFO [com.bank.util.Menu] March 25 - 08:46 - 
+INFO [com.bank.util.Menu] March 25 - 08:46 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:46 - 
+INFO [com.bank.util.Menu] March 25 - 08:46 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:46 - 
+INFO [com.bank.util.Menu] March 25 - 08:46 - 1 - log in
+INFO [com.bank.util.Menu] March 25 - 08:46 - 2 - register for customer account
+INFO [com.bank.util.Menu] March 25 - 08:46 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:46 - 
+INFO [com.bank.util.Menu] March 25 - 08:46 - 
+INFO [com.bank.util.Menu] March 25 - 08:46 - enter user id:
+INFO [com.bank.util.Menu] March 25 - 08:46 - enter user password:
+INFO [com.bank.util.Menu] March 25 - 08:46 - 
+INFO [com.bank.util.Menu] March 25 - 08:46 - W E L C O M E , Truman Ellington!
+INFO [com.bank.util.Menu] March 25 - 08:46 - 
+INFO [com.bank.util.Menu] March 25 - 08:46 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:46 - 
+INFO [com.bank.util.Menu] March 25 - 08:46 -                        BBB Customer Menu
+INFO [com.bank.util.Menu] March 25 - 08:46 - 
+INFO [com.bank.util.Menu] March 25 - 08:46 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:46 - 
+INFO [com.bank.util.Menu] March 25 - 08:46 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:46 - 
+INFO [com.bank.util.Menu] March 25 - 08:46 - 1 - apply for new bank account
+INFO [com.bank.util.Menu] March 25 - 08:46 - 2 - view account balances
+INFO [com.bank.util.Menu] March 25 - 08:46 - 3 - withdraw or deposit
+INFO [com.bank.util.Menu] March 25 - 08:46 - 4 - manage transfers
+INFO [com.bank.util.Menu] March 25 - 08:46 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:46 - 
+INFO [com.bank.util.Menu] March 25 - 08:46 - 
+INFO [com.bank.util.Menu] March 25 - 08:46 - what kind of transaction would you like to make?
+INFO [com.bank.util.Menu] March 25 - 08:46 - 
+INFO [com.bank.util.Menu] March 25 - 08:46 - 1 - withdrawal
+INFO [com.bank.util.Menu] March 25 - 08:46 - 2 - deposit
+INFO [com.bank.util.Menu] March 25 - 08:46 - 
+INFO [com.bank.util.Menu] March 25 - 08:47 - 
+INFO [com.bank.util.Menu] March 25 - 08:47 - which account would you like to make a deposit?
+INFO [com.bank.util.Menu] March 25 - 08:47 - 
+INFO [com.bank.util.Menu] March 25 - 08:47 - 100025
+INFO [com.bank.util.Menu] March 25 - 08:47 - 100030
+INFO [com.bank.util.Menu] March 25 - 08:47 - 
+INFO [com.bank.util.Menu] March 25 - 08:47 - 
+INFO [com.bank.util.Menu] March 25 - 08:47 - SAVINGS 100025: $322.91
+INFO [com.bank.util.Menu] March 25 - 08:47 - 
+INFO [com.bank.util.Menu] March 25 - 08:47 - how much would you like to deposit?
+INFO [com.bank.util.Menu] March 25 - 08:47 - 
+INFO [com.bank.util.Menu] March 25 - 08:47 - 
+INFO [com.bank.util.Menu] March 25 - 08:47 - new balance for SAVINGS 100025: $342.91
+INFO [com.bank.util.Menu] March 25 - 08:47 - 
+INFO [com.bank.util.Menu] March 25 - 08:47 - [Thu Mar 25 08:47:04 CDT 2021] deposit 10000023 to   acc 100025 of $20.00
+INFO [com.bank.util.Menu] March 25 - 08:47 - 
+INFO [com.bank.util.Menu] March 25 - 08:47 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:47 - 
+INFO [com.bank.util.Menu] March 25 - 08:47 -                        BBB Customer Menu
+INFO [com.bank.util.Menu] March 25 - 08:47 - 
+INFO [com.bank.util.Menu] March 25 - 08:47 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:47 - 
+INFO [com.bank.util.Menu] March 25 - 08:47 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:47 - 
+INFO [com.bank.util.Menu] March 25 - 08:47 - 1 - apply for new bank account
+INFO [com.bank.util.Menu] March 25 - 08:47 - 2 - view account balances
+INFO [com.bank.util.Menu] March 25 - 08:47 - 3 - withdraw or deposit
+INFO [com.bank.util.Menu] March 25 - 08:47 - 4 - manage transfers
+INFO [com.bank.util.Menu] March 25 - 08:47 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:47 - 
+INFO [com.bank.util.Menu] March 25 - 08:48 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:48 - 
+INFO [com.bank.util.Menu] March 25 - 08:48 -                          BIG BUCK$ BANK
+INFO [com.bank.util.Menu] March 25 - 08:48 - 
+INFO [com.bank.util.Menu] March 25 - 08:48 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:48 - 
+INFO [com.bank.util.Menu] March 25 - 08:48 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:48 - 
+INFO [com.bank.util.Menu] March 25 - 08:48 - 1 - log in
+INFO [com.bank.util.Menu] March 25 - 08:48 - 2 - register for customer account
+INFO [com.bank.util.Menu] March 25 - 08:48 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:48 - 
+INFO [com.bank.util.Menu] March 25 - 08:48 - 
+INFO [com.bank.util.Menu] March 25 - 08:48 - enter user id:
+INFO [com.bank.util.Menu] March 25 - 08:48 - enter user password:
+INFO [com.bank.util.Menu] March 25 - 08:48 - 
+ERROR [com.bank.util.Menu] March 25 - 08:48 - id/password not found
+INFO [com.bank.util.Menu] March 25 - 08:48 - 
+INFO [com.bank.util.Menu] March 25 - 08:48 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:48 - 
+INFO [com.bank.util.Menu] March 25 - 08:48 -                          BIG BUCK$ BANK
+INFO [com.bank.util.Menu] March 25 - 08:48 - 
+INFO [com.bank.util.Menu] March 25 - 08:48 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:48 - 
+INFO [com.bank.util.Menu] March 25 - 08:48 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:48 - 
+INFO [com.bank.util.Menu] March 25 - 08:48 - 1 - log in
+INFO [com.bank.util.Menu] March 25 - 08:48 - 2 - register for customer account
+INFO [com.bank.util.Menu] March 25 - 08:48 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:48 - 
+INFO [com.bank.util.Menu] March 25 - 08:48 - 
+INFO [com.bank.util.Menu] March 25 - 08:48 - enter user id:
+INFO [com.bank.util.Menu] March 25 - 08:48 - enter user password:
+INFO [com.bank.util.Menu] March 25 - 08:48 - 
+INFO [com.bank.util.Menu] March 25 - 08:48 - W E L C O M E , Truman Ellington!
+INFO [com.bank.util.Menu] March 25 - 08:48 - 
+INFO [com.bank.util.Menu] March 25 - 08:48 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:48 - 
+INFO [com.bank.util.Menu] March 25 - 08:48 -                        BBB Customer Menu
+INFO [com.bank.util.Menu] March 25 - 08:48 - 
+INFO [com.bank.util.Menu] March 25 - 08:48 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:48 - 
+INFO [com.bank.util.Menu] March 25 - 08:48 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:48 - 
+INFO [com.bank.util.Menu] March 25 - 08:48 - 1 - apply for new bank account
+INFO [com.bank.util.Menu] March 25 - 08:48 - 2 - view account balances
+INFO [com.bank.util.Menu] March 25 - 08:48 - 3 - withdraw or deposit
+INFO [com.bank.util.Menu] March 25 - 08:48 - 4 - manage transfers
+INFO [com.bank.util.Menu] March 25 - 08:48 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:48 - 
+INFO [com.bank.util.Menu] March 25 - 08:48 - 
+INFO [com.bank.util.Menu] March 25 - 08:48 - what kind of transaction would you like to make?
+INFO [com.bank.util.Menu] March 25 - 08:48 - 
+INFO [com.bank.util.Menu] March 25 - 08:48 - 1 - withdrawal
+INFO [com.bank.util.Menu] March 25 - 08:48 - 2 - deposit
+INFO [com.bank.util.Menu] March 25 - 08:48 - 
+INFO [com.bank.util.Menu] March 25 - 08:48 - 
+INFO [com.bank.util.Menu] March 25 - 08:48 - which account would you like to make a withdrawal?
+INFO [com.bank.util.Menu] March 25 - 08:48 - 
+INFO [com.bank.util.Menu] March 25 - 08:48 - 100025
+INFO [com.bank.util.Menu] March 25 - 08:48 - 100030
+INFO [com.bank.util.Menu] March 25 - 08:48 - 
+INFO [com.bank.util.Menu] March 25 - 08:48 - 
+INFO [com.bank.util.Menu] March 25 - 08:48 - SAVINGS 100025: $342.91
+INFO [com.bank.util.Menu] March 25 - 08:48 - 
+INFO [com.bank.util.Menu] March 25 - 08:48 - how much would you like to withdraw?
+INFO [com.bank.util.Menu] March 25 - 08:48 - 
+INFO [com.bank.util.Menu] March 25 - 08:48 - 
+INFO [com.bank.util.Menu] March 25 - 08:48 - new balance for SAVINGS 100025: $320.69
+INFO [com.bank.util.Menu] March 25 - 08:48 - 
+INFO [com.bank.util.Menu] March 25 - 08:48 - [Thu Mar 25 08:48:16 CDT 2021] withdrawal 10000024 from acc 100025 of $22.22
+INFO [com.bank.util.Menu] March 25 - 08:48 - 
+INFO [com.bank.util.Menu] March 25 - 08:48 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:48 - 
+INFO [com.bank.util.Menu] March 25 - 08:48 -                        BBB Customer Menu
+INFO [com.bank.util.Menu] March 25 - 08:48 - 
+INFO [com.bank.util.Menu] March 25 - 08:48 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:48 - 
+INFO [com.bank.util.Menu] March 25 - 08:48 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:48 - 
+INFO [com.bank.util.Menu] March 25 - 08:48 - 1 - apply for new bank account
+INFO [com.bank.util.Menu] March 25 - 08:48 - 2 - view account balances
+INFO [com.bank.util.Menu] March 25 - 08:48 - 3 - withdraw or deposit
+INFO [com.bank.util.Menu] March 25 - 08:48 - 4 - manage transfers
+INFO [com.bank.util.Menu] March 25 - 08:48 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:48 - 
+INFO [com.bank.util.Menu] March 25 - 08:48 - 
+INFO [com.bank.util.Menu] March 25 - 08:48 - what kind of transaction would you like to make?
+INFO [com.bank.util.Menu] March 25 - 08:48 - 
+INFO [com.bank.util.Menu] March 25 - 08:48 - 1 - withdrawal
+INFO [com.bank.util.Menu] March 25 - 08:48 - 2 - deposit
+INFO [com.bank.util.Menu] March 25 - 08:48 - 
+INFO [com.bank.util.Menu] March 25 - 08:48 - 
+INFO [com.bank.util.Menu] March 25 - 08:48 - which account would you like to make a deposit?
+INFO [com.bank.util.Menu] March 25 - 08:48 - 
+INFO [com.bank.util.Menu] March 25 - 08:48 - 100025
+INFO [com.bank.util.Menu] March 25 - 08:48 - 100030
+INFO [com.bank.util.Menu] March 25 - 08:48 - 
+INFO [com.bank.util.Menu] March 25 - 08:48 - 
+INFO [com.bank.util.Menu] March 25 - 08:48 - CHECKING 100030: $1999.00
+INFO [com.bank.util.Menu] March 25 - 08:48 - 
+INFO [com.bank.util.Menu] March 25 - 08:48 - how much would you like to deposit?
+INFO [com.bank.util.Menu] March 25 - 08:48 - 
+INFO [com.bank.util.Menu] March 25 - 08:48 - 
+INFO [com.bank.util.Menu] March 25 - 08:48 - new balance for CHECKING 100030: $2098.01
+INFO [com.bank.util.Menu] March 25 - 08:48 - 
+INFO [com.bank.util.Menu] March 25 - 08:48 - [Thu Mar 25 08:48:38 CDT 2021] deposit 10000025 to acc 100030 of $99.01
+INFO [com.bank.util.Menu] March 25 - 08:48 - 
+INFO [com.bank.util.Menu] March 25 - 08:48 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:48 - 
+INFO [com.bank.util.Menu] March 25 - 08:48 -                        BBB Customer Menu
+INFO [com.bank.util.Menu] March 25 - 08:48 - 
+INFO [com.bank.util.Menu] March 25 - 08:48 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:48 - 
+INFO [com.bank.util.Menu] March 25 - 08:48 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:48 - 
+INFO [com.bank.util.Menu] March 25 - 08:48 - 1 - apply for new bank account
+INFO [com.bank.util.Menu] March 25 - 08:48 - 2 - view account balances
+INFO [com.bank.util.Menu] March 25 - 08:48 - 3 - withdraw or deposit
+INFO [com.bank.util.Menu] March 25 - 08:48 - 4 - manage transfers
+INFO [com.bank.util.Menu] March 25 - 08:48 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:48 - 
+INFO [com.bank.util.Menu] March 25 - 08:48 - 
+INFO [com.bank.util.Menu] March 25 - 08:48 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:48 - 
+INFO [com.bank.util.Menu] March 25 - 08:48 -                          BIG BUCK$ BANK
+INFO [com.bank.util.Menu] March 25 - 08:48 - 
+INFO [com.bank.util.Menu] March 25 - 08:48 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:48 - 
+INFO [com.bank.util.Menu] March 25 - 08:48 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:48 - 
+INFO [com.bank.util.Menu] March 25 - 08:48 - 1 - log in
+INFO [com.bank.util.Menu] March 25 - 08:48 - 2 - register for customer account
+INFO [com.bank.util.Menu] March 25 - 08:48 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:48 - 
+INFO [com.bank.util.Menu] March 25 - 08:49 - 
+INFO [com.bank.util.Menu] March 25 - 08:49 - enter user id:
+INFO [com.bank.util.Menu] March 25 - 08:49 - enter user password:
+INFO [com.bank.util.Menu] March 25 - 08:49 - 
+INFO [com.bank.util.Menu] March 25 - 08:49 - W E L C O M E , Oliver Herbert!
+INFO [com.bank.util.Menu] March 25 - 08:49 - 
+INFO [com.bank.util.Menu] March 25 - 08:49 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:49 - 
+INFO [com.bank.util.Menu] March 25 - 08:49 -                        BBB Employee Menu
+INFO [com.bank.util.Menu] March 25 - 08:49 - 
+INFO [com.bank.util.Menu] March 25 - 08:49 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:49 - 
+INFO [com.bank.util.Menu] March 25 - 08:49 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:49 - 
+INFO [com.bank.util.Menu] March 25 - 08:49 - 1 - view pending customer accounts
+INFO [com.bank.util.Menu] March 25 - 08:49 - 2 - view customer's account
+INFO [com.bank.util.Menu] March 25 - 08:49 - 3 - view transaction logs
+INFO [com.bank.util.Menu] March 25 - 08:49 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:49 - 
+INFO [com.bank.util.Menu] March 25 - 08:49 - 
+INFO [com.bank.util.Menu] March 25 - 08:49 - enter customer id:
+INFO [com.bank.util.Menu] March 25 - 08:49 - 
+INFO [com.bank.util.Menu] March 25 - 08:49 - 
+INFO [com.bank.util.Menu] March 25 - 08:49 - 100026
+INFO [com.bank.util.Menu] March 25 - 08:49 - 
+INFO [com.bank.util.Menu] March 25 - 08:49 - enter account id:
+INFO [com.bank.util.Menu] March 25 - 08:49 - 
+INFO [com.bank.util.Menu] March 25 - 08:49 - 
+INFO [com.bank.util.Menu] March 25 - 08:49 - CHECKING 100026: $8121.99
+INFO [com.bank.util.Menu] March 25 - 08:49 - 
+INFO [com.bank.util.Menu] March 25 - 08:49 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:49 - 
+INFO [com.bank.util.Menu] March 25 - 08:49 -                        BBB Employee Menu
+INFO [com.bank.util.Menu] March 25 - 08:49 - 
+INFO [com.bank.util.Menu] March 25 - 08:49 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:49 - 
+INFO [com.bank.util.Menu] March 25 - 08:49 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:49 - 
+INFO [com.bank.util.Menu] March 25 - 08:49 - 1 - view pending customer accounts
+INFO [com.bank.util.Menu] March 25 - 08:49 - 2 - view customer's account
+INFO [com.bank.util.Menu] March 25 - 08:49 - 3 - view transaction logs
+INFO [com.bank.util.Menu] March 25 - 08:49 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:49 - 
+INFO [com.bank.util.Menu] March 25 - 08:49 - 
+INFO [com.bank.util.Menu] March 25 - 08:49 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:49 - 
+INFO [com.bank.util.Menu] March 25 - 08:49 -                          BIG BUCK$ BANK
+INFO [com.bank.util.Menu] March 25 - 08:49 - 
+INFO [com.bank.util.Menu] March 25 - 08:49 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:49 - 
+INFO [com.bank.util.Menu] March 25 - 08:49 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:49 - 
+INFO [com.bank.util.Menu] March 25 - 08:49 - 1 - log in
+INFO [com.bank.util.Menu] March 25 - 08:49 - 2 - register for customer account
+INFO [com.bank.util.Menu] March 25 - 08:49 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:49 - 
+INFO [com.bank.util.Menu] March 25 - 08:49 - 
+INFO [com.bank.util.Menu] March 25 - 08:49 - enter user id:
+INFO [com.bank.util.Menu] March 25 - 08:49 - enter user password:
+INFO [com.bank.util.Menu] March 25 - 08:49 - 
+INFO [com.bank.util.Menu] March 25 - 08:49 - W E L C O M E , Truman Ellington!
+INFO [com.bank.util.Menu] March 25 - 08:49 - 
+INFO [com.bank.util.Menu] March 25 - 08:49 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:49 - 
+INFO [com.bank.util.Menu] March 25 - 08:49 -                        BBB Customer Menu
+INFO [com.bank.util.Menu] March 25 - 08:49 - 
+INFO [com.bank.util.Menu] March 25 - 08:49 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:49 - 
+INFO [com.bank.util.Menu] March 25 - 08:49 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:49 - 
+INFO [com.bank.util.Menu] March 25 - 08:49 - 1 - apply for new bank account
+INFO [com.bank.util.Menu] March 25 - 08:49 - 2 - view account balances
+INFO [com.bank.util.Menu] March 25 - 08:49 - 3 - withdraw or deposit
+INFO [com.bank.util.Menu] March 25 - 08:49 - 4 - manage transfers
+INFO [com.bank.util.Menu] March 25 - 08:49 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:49 - 
+INFO [com.bank.util.Menu] March 25 - 08:49 - 
+INFO [com.bank.util.Menu] March 25 - 08:49 - what kind of account would you like to apply for?
+INFO [com.bank.util.Menu] March 25 - 08:49 - 
+INFO [com.bank.util.Menu] March 25 - 08:49 - 1 - checking
+INFO [com.bank.util.Menu] March 25 - 08:49 - 2 - savings
+INFO [com.bank.util.Menu] March 25 - 08:49 - 
+INFO [com.bank.util.Menu] March 25 - 08:49 - 
+INFO [com.bank.util.Menu] March 25 - 08:49 - would you like to make an initial deposit? (y/n)
+INFO [com.bank.util.Menu] March 25 - 08:49 - how much would you like to deposit?
+INFO [com.bank.util.Menu] March 25 - 08:49 - 
+INFO [com.bank.util.Menu] March 25 - 08:49 - application successful! your account id is: 100038
+INFO [com.bank.util.Menu] March 25 - 08:49 - your bank account is pending review by an employee
+INFO [com.bank.util.Menu] March 25 - 08:49 - 
+INFO [com.bank.util.Menu] March 25 - 08:49 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:49 - 
+INFO [com.bank.util.Menu] March 25 - 08:49 -                        BBB Customer Menu
+INFO [com.bank.util.Menu] March 25 - 08:49 - 
+INFO [com.bank.util.Menu] March 25 - 08:49 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:49 - 
+INFO [com.bank.util.Menu] March 25 - 08:49 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:49 - 
+INFO [com.bank.util.Menu] March 25 - 08:49 - 1 - apply for new bank account
+INFO [com.bank.util.Menu] March 25 - 08:49 - 2 - view account balances
+INFO [com.bank.util.Menu] March 25 - 08:49 - 3 - withdraw or deposit
+INFO [com.bank.util.Menu] March 25 - 08:49 - 4 - manage transfers
+INFO [com.bank.util.Menu] March 25 - 08:49 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:49 - 
+INFO [com.bank.util.Menu] March 25 - 08:49 - 
+INFO [com.bank.util.Menu] March 25 - 08:49 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:49 - 
+INFO [com.bank.util.Menu] March 25 - 08:49 -                          BIG BUCK$ BANK
+INFO [com.bank.util.Menu] March 25 - 08:49 - 
+INFO [com.bank.util.Menu] March 25 - 08:49 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:49 - 
+INFO [com.bank.util.Menu] March 25 - 08:49 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:49 - 
+INFO [com.bank.util.Menu] March 25 - 08:49 - 1 - log in
+INFO [com.bank.util.Menu] March 25 - 08:49 - 2 - register for customer account
+INFO [com.bank.util.Menu] March 25 - 08:49 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:49 - 
+INFO [com.bank.util.Menu] March 25 - 08:49 - 
+INFO [com.bank.util.Menu] March 25 - 08:49 - enter user id:
+INFO [com.bank.util.Menu] March 25 - 08:49 - enter user password:
+INFO [com.bank.util.Menu] March 25 - 08:49 - 
+INFO [com.bank.util.Menu] March 25 - 08:49 - W E L C O M E , Oliver Herbert!
+INFO [com.bank.util.Menu] March 25 - 08:49 - 
+INFO [com.bank.util.Menu] March 25 - 08:49 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:49 - 
+INFO [com.bank.util.Menu] March 25 - 08:49 -                        BBB Employee Menu
+INFO [com.bank.util.Menu] March 25 - 08:49 - 
+INFO [com.bank.util.Menu] March 25 - 08:49 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:49 - 
+INFO [com.bank.util.Menu] March 25 - 08:49 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:49 - 
+INFO [com.bank.util.Menu] March 25 - 08:49 - 1 - view pending customer accounts
+INFO [com.bank.util.Menu] March 25 - 08:49 - 2 - view customer's account
+INFO [com.bank.util.Menu] March 25 - 08:49 - 3 - view transaction logs
+INFO [com.bank.util.Menu] March 25 - 08:49 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:49 - 
+INFO [com.bank.util.Menu] March 25 - 08:49 - 
+INFO [com.bank.util.Menu] March 25 - 08:49 - here are the pending accounts:
+INFO [com.bank.util.Menu] March 25 - 08:49 - 
+INFO [com.bank.util.Menu] March 25 - 08:49 - SAVINGS 100031 (initial balance $0.00) is pending review
+INFO [com.bank.util.Menu] March 25 - 08:49 - CHECKING 100032 (initial balance $0.00) is pending review
+INFO [com.bank.util.Menu] March 25 - 08:49 - SAVINGS 100037 (initial balance $0.00) is pending review
+INFO [com.bank.util.Menu] March 25 - 08:49 - SAVINGS 100038 (initial balance $200.00) is pending review
+INFO [com.bank.util.Menu] March 25 - 08:49 - 
+INFO [com.bank.util.Menu] March 25 - 08:49 - enter account id to approve or reject:
+INFO [com.bank.util.Menu] March 25 - 08:49 - SAVINGS 100038 (initial balance $200.00) for Truman Ellington is pending review
+INFO [com.bank.util.Menu] March 25 - 08:49 - 
+INFO [com.bank.util.Menu] March 25 - 08:49 - would you like to approve this account? (y/n)
+INFO [com.bank.util.Menu] March 25 - 08:49 - 
+INFO [com.bank.util.Menu] March 25 - 08:49 - 
+INFO [com.bank.util.Menu] March 25 - 08:49 - SAVINGS 100038: $200.00 has been approved
+INFO [com.bank.util.Menu] March 25 - 08:49 - 
+INFO [com.bank.util.Menu] March 25 - 08:49 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:49 - 
+INFO [com.bank.util.Menu] March 25 - 08:49 -                        BBB Employee Menu
+INFO [com.bank.util.Menu] March 25 - 08:49 - 
+INFO [com.bank.util.Menu] March 25 - 08:49 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:49 - 
+INFO [com.bank.util.Menu] March 25 - 08:49 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:49 - 
+INFO [com.bank.util.Menu] March 25 - 08:49 - 1 - view pending customer accounts
+INFO [com.bank.util.Menu] March 25 - 08:49 - 2 - view customer's account
+INFO [com.bank.util.Menu] March 25 - 08:49 - 3 - view transaction logs
+INFO [com.bank.util.Menu] March 25 - 08:49 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:49 - 
+INFO [com.bank.util.Menu] March 25 - 08:49 - 
+INFO [com.bank.util.Menu] March 25 - 08:49 - full transaction log:
+INFO [com.bank.util.Menu] March 25 - 08:49 - 
+INFO [com.bank.util.Menu] March 25 - 08:49 - [2021-03-22 17:42:52.769] withdrawal          10000001 from acc 100020 of $960.09
+INFO [com.bank.util.Menu] March 25 - 08:49 - [2021-03-22 17:45:51.811] deposit             10000002 to   acc 100027 of $510.10
+INFO [com.bank.util.Menu] March 25 - 08:49 - [2021-03-22 18:00:59.378] withdrawal          10000003 from acc 100028 of $200.00
+INFO [com.bank.util.Menu] March 25 - 08:49 - [2021-03-22 18:03:11.221] withdrawal          10000004 from acc 100028 of $20.00
+INFO [com.bank.util.Menu] March 25 - 08:49 - [2021-03-23 09:02:21.412] deposit             10000005 to   acc 100025 of $99.09
+INFO [com.bank.util.Menu] March 25 - 08:49 - [2021-03-23 09:02:34.029] withdrawal          10000006 from acc 100025 of $42.03
+INFO [com.bank.util.Menu] March 25 - 08:49 - [2021-03-23 14:29:15.252] withdrawal          10000007 from acc 100025 of $20.00
+INFO [com.bank.util.Menu] March 25 - 08:49 - [2021-03-24 09:02:29.343] withdrawal          10000008 from acc 100015 of $20.99
+INFO [com.bank.util.Menu] March 25 - 08:49 - [2021-03-24 09:02:45.999] deposit             10000009 to   acc 100015 of $100.01
+INFO [com.bank.util.Menu] March 25 - 08:49 - [2021-03-24 09:07:37.438] approved transfer   10000011 from acc 100034 to acc 100010 of $25.39
+INFO [com.bank.util.Menu] March 25 - 08:49 - [2021-03-25 08:06:12.611] deposit             10000012 to   acc 100010 of $200.00
+INFO [com.bank.util.Menu] March 25 - 08:49 - [2021-03-25 08:06:33.225] withdrawal          10000013 from acc 100010 of $44.13
+INFO [com.bank.util.Menu] March 25 - 08:49 - [2021-03-25 08:07:24.748] approved transfer   10000014 from acc 100022 to acc 100011 of $2,000.05
+INFO [com.bank.util.Menu] March 25 - 08:49 - [2021-03-25 08:24:20.353] approved transfer   10000016 from acc 100025 to acc 100030 of $32.23
+INFO [com.bank.util.Menu] March 25 - 08:49 - [2021-03-25 08:31:10.824] pending transfer    10000018 from acc 100030 to acc 100025 of $32.23
+INFO [com.bank.util.Menu] March 25 - 08:49 - [2021-03-25 08:34:14.18] approved transfer   10000019 from acc 100025 to acc 100030 of $3.00
+INFO [com.bank.util.Menu] March 25 - 08:49 - [2021-03-25 08:35:33.021] pending transfer    10000020 from acc 100030 to acc 100025 of $4.00
+INFO [com.bank.util.Menu] March 25 - 08:49 - [2021-03-25 08:44:31.681] deposit             10000022 to   acc 100001 of $500.00
+INFO [com.bank.util.Menu] March 25 - 08:49 - [2021-03-25 08:47:04.859] deposit             10000023 to   acc 100025 of $20.00
+INFO [com.bank.util.Menu] March 25 - 08:49 - [2021-03-25 08:48:16.386] withdrawal          10000024 from acc 100025 of $22.22
+INFO [com.bank.util.Menu] March 25 - 08:49 - [2021-03-25 08:48:38.493] deposit             10000025 to   acc 100030 of $99.01
+INFO [com.bank.util.Menu] March 25 - 08:49 - 
+INFO [com.bank.util.Menu] March 25 - 08:49 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:49 - 
+INFO [com.bank.util.Menu] March 25 - 08:49 -                        BBB Employee Menu
+INFO [com.bank.util.Menu] March 25 - 08:49 - 
+INFO [com.bank.util.Menu] March 25 - 08:49 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:49 - 
+INFO [com.bank.util.Menu] March 25 - 08:49 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:49 - 
+INFO [com.bank.util.Menu] March 25 - 08:49 - 1 - view pending customer accounts
+INFO [com.bank.util.Menu] March 25 - 08:49 - 2 - view customer's account
+INFO [com.bank.util.Menu] March 25 - 08:49 - 3 - view transaction logs
+INFO [com.bank.util.Menu] March 25 - 08:49 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:49 - 
+INFO [com.bank.util.Menu] March 25 - 08:51 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:51 - 
+INFO [com.bank.util.Menu] March 25 - 08:51 -                          BIG BUCK$ BANK
+INFO [com.bank.util.Menu] March 25 - 08:51 - 
+INFO [com.bank.util.Menu] March 25 - 08:51 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:51 - 
+INFO [com.bank.util.Menu] March 25 - 08:51 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:51 - 
+INFO [com.bank.util.Menu] March 25 - 08:51 - 1 - log in
+INFO [com.bank.util.Menu] March 25 - 08:51 - 2 - register for customer account
+INFO [com.bank.util.Menu] March 25 - 08:51 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:51 - 
+INFO [com.bank.util.Menu] March 25 - 08:51 - 
+INFO [com.bank.util.Menu] March 25 - 08:51 - enter user id:
+INFO [com.bank.util.Menu] March 25 - 08:51 - enter user password:
+INFO [com.bank.util.Menu] March 25 - 08:51 - 
+INFO [com.bank.util.Menu] March 25 - 08:51 - W E L C O M E , Oliver Herbert!
+INFO [com.bank.util.Menu] March 25 - 08:51 - 
+INFO [com.bank.util.Menu] March 25 - 08:51 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:51 - 
+INFO [com.bank.util.Menu] March 25 - 08:51 -                        BBB Employee Menu
+INFO [com.bank.util.Menu] March 25 - 08:51 - 
+INFO [com.bank.util.Menu] March 25 - 08:51 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:51 - 
+INFO [com.bank.util.Menu] March 25 - 08:51 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:51 - 
+INFO [com.bank.util.Menu] March 25 - 08:51 - 1 - view pending customer accounts
+INFO [com.bank.util.Menu] March 25 - 08:51 - 2 - view customer's account
+INFO [com.bank.util.Menu] March 25 - 08:51 - 3 - view transaction logs
+INFO [com.bank.util.Menu] March 25 - 08:51 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:51 - 
+INFO [com.bank.util.Menu] March 25 - 08:51 - 
+INFO [com.bank.util.Menu] March 25 - 08:51 - full transaction log:
+INFO [com.bank.util.Menu] March 25 - 08:51 - 
+INFO [com.bank.util.Menu] March 25 - 08:51 - [2021-03-22 17:42:52.769] withdrawal          10000001 from acc 100020 of $960.09
+INFO [com.bank.util.Menu] March 25 - 08:51 - [2021-03-22 17:45:51.811] deposit             10000002 to   acc 100027 of $510.10
+INFO [com.bank.util.Menu] March 25 - 08:51 - [2021-03-22 18:00:59.378] withdrawal          10000003 from acc 100028 of $200.00
+INFO [com.bank.util.Menu] March 25 - 08:51 - [2021-03-22 18:03:11.221] withdrawal          10000004 from acc 100028 of $20.00
+INFO [com.bank.util.Menu] March 25 - 08:51 - [2021-03-23 09:02:21.412] deposit             10000005 to   acc 100025 of $99.09
+INFO [com.bank.util.Menu] March 25 - 08:51 - [2021-03-23 09:02:34.029] withdrawal          10000006 from acc 100025 of $42.03
+INFO [com.bank.util.Menu] March 25 - 08:51 - [2021-03-23 14:29:15.252] withdrawal          10000007 from acc 100025 of $20.00
+INFO [com.bank.util.Menu] March 25 - 08:51 - [2021-03-24 09:02:29.343] withdrawal          10000008 from acc 100015 of $20.99
+INFO [com.bank.util.Menu] March 25 - 08:51 - [2021-03-24 09:02:45.999] deposit             10000009 to   acc 100015 of $100.01
+INFO [com.bank.util.Menu] March 25 - 08:51 - [2021-03-24 09:07:37.438] approved transfer   10000011 from acc 100034 to acc 100010 of $25.39
+INFO [com.bank.util.Menu] March 25 - 08:51 - [2021-03-25 08:06:12.611] deposit             10000012 to   acc 100010 of $200.00
+INFO [com.bank.util.Menu] March 25 - 08:51 - [2021-03-25 08:06:33.225] withdrawal          10000013 from acc 100010 of $44.13
+INFO [com.bank.util.Menu] March 25 - 08:51 - [2021-03-25 08:07:24.748] approved transfer   10000014 from acc 100022 to acc 100011 of $2,000.05
+INFO [com.bank.util.Menu] March 25 - 08:51 - [2021-03-25 08:24:20.353] approved transfer   10000016 from acc 100025 to acc 100030 of $32.23
+INFO [com.bank.util.Menu] March 25 - 08:51 - [2021-03-25 08:31:10.824] pending transfer    10000018 from acc 100030 to acc 100025 of $32.23
+INFO [com.bank.util.Menu] March 25 - 08:51 - [2021-03-25 08:34:14.18]  approved transfer   10000019 from acc 100025 to acc 100030 of $3.00
+INFO [com.bank.util.Menu] March 25 - 08:51 - [2021-03-25 08:35:33.021] pending transfer    10000020 from acc 100030 to acc 100025 of $4.00
+INFO [com.bank.util.Menu] March 25 - 08:51 - [2021-03-25 08:44:31.681] deposit             10000022 to   acc 100001 of $500.00
+INFO [com.bank.util.Menu] March 25 - 08:51 - [2021-03-25 08:47:04.859] deposit             10000023 to   acc 100025 of $20.00
+INFO [com.bank.util.Menu] March 25 - 08:51 - [2021-03-25 08:48:16.386] withdrawal          10000024 from acc 100025 of $22.22
+INFO [com.bank.util.Menu] March 25 - 08:51 - [2021-03-25 08:48:38.493] deposit             10000025 to   acc 100030 of $99.01
+INFO [com.bank.util.Menu] March 25 - 08:51 - 
+INFO [com.bank.util.Menu] March 25 - 08:51 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:51 - 
+INFO [com.bank.util.Menu] March 25 - 08:51 -                        BBB Employee Menu
+INFO [com.bank.util.Menu] March 25 - 08:51 - 
+INFO [com.bank.util.Menu] March 25 - 08:51 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:51 - 
+INFO [com.bank.util.Menu] March 25 - 08:51 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:51 - 
+INFO [com.bank.util.Menu] March 25 - 08:51 - 1 - view pending customer accounts
+INFO [com.bank.util.Menu] March 25 - 08:51 - 2 - view customer's account
+INFO [com.bank.util.Menu] March 25 - 08:51 - 3 - view transaction logs
+INFO [com.bank.util.Menu] March 25 - 08:51 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:51 - 
+INFO [com.bank.util.Menu] March 25 - 08:51 - 
+INFO [com.bank.util.Menu] March 25 - 08:51 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:51 - 
+INFO [com.bank.util.Menu] March 25 - 08:51 -                          BIG BUCK$ BANK
+INFO [com.bank.util.Menu] March 25 - 08:51 - 
+INFO [com.bank.util.Menu] March 25 - 08:51 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+INFO [com.bank.util.Menu] March 25 - 08:51 - 
+INFO [com.bank.util.Menu] March 25 - 08:51 - what would you like to do?
+INFO [com.bank.util.Menu] March 25 - 08:51 - 
+INFO [com.bank.util.Menu] March 25 - 08:51 - 1 - log in
+INFO [com.bank.util.Menu] March 25 - 08:51 - 2 - register for customer account
+INFO [com.bank.util.Menu] March 25 - 08:51 - ==== 0 - exit ====
+INFO [com.bank.util.Menu] March 25 - 08:51 - 
+INFO [com.bank.util.Menu] March 25 - 08:51 - 
+INFO [com.bank.util.Menu] March 25 - 08:51 - ----------------------------------------------------------------
+INFO [com.bank.util.Menu] March 25 - 08:51 - 
+INFO [com.bank.util.Menu] March 25 - 08:51 - thank you for banking with BIG BUCK$ BANK!!
+INFO [com.bank.util.Menu] March 25 - 08:51 - 
+INFO [com.bank.util.Menu] March 25 - 08:51 - << BBB Application v1.0 >>
+INFO [com.bank.util.Menu] March 25 - 08:51 - 
